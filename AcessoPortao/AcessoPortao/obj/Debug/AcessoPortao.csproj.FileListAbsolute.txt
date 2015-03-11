@@ -1,0 +1,102 @@
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\AcessoPortao.dll.config
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\AcessoPortao.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\AcessoPortao.pdb
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Antlr3.Runtime.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\EntityFramework.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\EntityFramework.SqlServer.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Newtonsoft.Json.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Owin.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\System.Web.Optimization.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\System.Web.Providers.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\WebGrease.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\System.Web.Optimization.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Antlr3.Runtime.pdb
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Newtonsoft.Json.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\EntityFramework.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\EntityFramework.SqlServer.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.dll
+c:\users\alan\documents\visual studio 2013\Projects\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.pdb
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\AcessoPortao.dll.config
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\AcessoPortao.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\AcessoPortao.pdb
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Antlr3.Runtime.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\AspNet.ScriptManager.jQuery.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\EntityFramework.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\EntityFramework.SqlServer.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Google.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Web.Infrastructure.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Newtonsoft.Json.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Owin.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\System.Web.Optimization.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\System.Web.Providers.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\WebGrease.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\System.Web.Optimization.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Antlr3.Runtime.pdb
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Newtonsoft.Json.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\EntityFramework.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\EntityFramework.SqlServer.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Google.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.dll
+D:\SkyDrive\Sistemas_Ativos\AcessoPortao\AcessoPortao\obj\Debug\AcessoPortao.pdb
