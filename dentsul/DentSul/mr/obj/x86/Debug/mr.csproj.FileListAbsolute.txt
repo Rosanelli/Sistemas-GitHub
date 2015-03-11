@@ -1,0 +1,169 @@
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\bin\Debug\mr.exe
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\bin\Debug\mr.pdb
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\mr.Form1.resources
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\mr.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\mr.exe
+c:\users\alan\documents\visual studio 2010\Projects\mr\mr\obj\x86\Debug\mr.pdb
+F:\Alan\Documentos\Visual Studio 2010\Projects\mr\mr\obj\x86\Debug\mr.exe
+F:\Alan\Documentos\Visual Studio 2010\Projects\mr\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade - Primeiro software\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade - Primeiro software\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\bin\Debug\mr.exe
+C:\Users\ALAN\Desktop\MRcontabilidade(só lc1)\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\bin\Debug\mr.exe
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\bin\Debug\mr.exe.manifest
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\bin\Debug\mr.application
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\ALAN\Documents\Visual Studio 2010\Projects\MRcontabilidade(só lc1)\mr\obj\x86\Debug\mr.application
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Desktop\Quase\mr\bin\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\Quase\mr\bin\Debug\mr.application
+C:\Users\ALAN\Desktop\Quase\mr\bin\Debug\mr.exe
+C:\Users\ALAN\Desktop\Quase\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\Quase\mr\obj\x86\Debug\mr.application
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\bin\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\bin\Debug\mr.application
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\bin\Debug\mr.exe
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\HS Lajeado\Quase\mr\obj\x86\Debug\mr.application
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\bin\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\bin\Debug\mr.application
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\bin\Debug\mr.exe
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\ALAN\Desktop\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.application
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.exe
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.pdb
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\bin\Debug\mr.exe.manifest
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\bin\Debug\mr.application
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\bin\Debug\mr.exe
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\bin\Debug\mr.pdb
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.application
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+C:\Users\ALAN\SkyDrive\Sistemas\MR contabilidade\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+F:\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.exe
+F:\HS Lajeado\TopTravelling\mr\obj\x86\Debug\mr.pdb
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.exe
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.pdb
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\bin\Debug\mr.exe.manifest
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\bin\Debug\mr.application
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\bin\Debug\mr.exe
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\bin\Debug\mr.pdb
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.Form1.resources
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.Properties.Resources.resources
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.exe.manifest
+D:\ArquivosD\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.application
+D:\Arquivos\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.exe
+D:\Arquivos\SOFTWARE\Sistemas\HSLajeado\TopTravelling-1.0\mr\obj\x86\Debug\mr.pdb
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.pdb
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\bin\Debug\mr.exe.manifest
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\bin\Debug\mr.application
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\bin\Debug\mr.exe
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\bin\Debug\mr.pdb
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.application
+C:\Users\Alan\Desktop\SkyDrive\Software\TopTravelling-1.1\mr\obj\x86\Debug\mr.Configuracao.resources
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.pdb
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.exe.manifest
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.application
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.exe
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.pdb
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Configuracao.resources
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Form1.resources
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Properties.Resources.resources
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe.manifest
+E:\Backup\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.application
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.pdb
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.exe.manifest
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.application
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.exe
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\bin\Debug\mr.pdb
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Configuracao.resources
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Form1.resources
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.Properties.Resources.resources
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe.manifest
+E:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.application
+D:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.exe
+D:\Dados\Sistemas\Sistemas\HSLajeado\Top Travelling\TopTravelling-1.1\mr\obj\x86\Debug\mr.pdb
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.exe
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.pdb
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.Configuracao.resources
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.Form1.resources
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.Properties.Resources.resources
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\bin\Debug\mr.exe.manifest
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\bin\Debug\mr.application
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\bin\Debug\mr.exe
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\bin\Debug\mr.pdb
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.exe.manifest
+C:\Users\Alan\Desktop\dentsul\DentSul\mr\obj\x86\Debug\mr.application
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.exe
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.pdb
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\bin\Debug\mr.exe.manifest
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\bin\Debug\mr.application
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\bin\Debug\mr.exe
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\bin\Debug\mr.pdb
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.Configuracao.resources
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.Form1.resources
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.Properties.Resources.resources
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.csproj.GenerateResource.Cache
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.exe.manifest
+D:\SkyDrive\Sistemas_Ativos\dentsul\DentSul\mr\obj\x86\Debug\mr.application

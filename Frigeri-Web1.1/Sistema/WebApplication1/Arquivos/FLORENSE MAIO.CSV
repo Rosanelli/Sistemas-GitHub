@@ -1,0 +1,979 @@
+   509026|1    |1 |   75708|02/05/14 |11825426000109|Orthoimplant Clinica|89962294000146|Florense            |      1.199,78
+   508890|1    |1 |   75715|02/05/14 |    2033651789|Michele Alves Baroso| 7924326000154|Dalman              |        702,65
+   508890|1    |1 |   75716|02/05/14 | 7924326000154|Dalman              | 7924326000154|Dalman              |        940,90
+   508890|1    |1 |   75717|02/05/14 | 7924326000154|Dalman              | 7924326000154|Dalman              |        193,83
+   508890|1    |1 |   75718|02/05/14 | 7924326000154|Dalman              | 7924326000154|Dalman              |          4,42
+   508890|1    |1 |   75719|02/05/14 |   26715821704|Nelson Oliveira Bast| 7924326000154|Dalman              |          9,77
+   508866|1    |1 |   76091|02/05/14 | 6986630000163|Gomes Jr. Const. e I|  289620000192|Vicenza Serv e Repre|         15,44
+        0|1    |1 |   76092|02/05/14 |79244158000167|Procave Inv. Inc. La|89962294000146|Florense            |          1,00
+   508866|1    |1 |   76093|02/05/14 |    1997013932|Josiane Siebert     |  289620000192|Vicenza Serv e Repre|         40,34
+        0|1    |1 |   76094|02/05/14 | 6081065000195|Haacke Empreend. Imo|89962294000146|Florense            |          1,00
+   508866|1    |1 |   76095|02/05/14 |  289620000192|Vicenza Serv e Repre|  289620000192|Vicenza Serv e Repre|          5,43
+   508866|1    |1 |   76096|02/05/14 |  424011000107|Vicenza             |  289620000192|Vicenza Serv e Repre|          4,88
+   508869|1    |1 |   76097|02/05/14 | 7150434000117|Sinasc Sinal e Const| 6975016000104|Prodecor Serv.p/deco|      1.304,16
+   508869|1    |1 |   76098|02/05/14 | 7150434000117|Sinasc Sinal e Const| 6975016000104|Prodecor Serv.p/deco|      1.027,28
+   508869|1    |1 |   76100|02/05/14 |    5943007970|Julian Adrian Richte| 6975016000104|Prodecor Serv.p/deco|        319,55
+   508869|1    |1 |   76101|02/05/14 |   30798850078|Itamar Pedro Bevilaq| 6975016000104|Prodecor Serv.p/deco|        161,98
+   508869|1    |1 |   76102|02/05/14 |   72751410944|Silvia Domingues San| 6975016000104|Prodecor Serv.p/deco|        241,01
+   508869|1    |1 |   76103|02/05/14 |   22436448949|Aldo Jose Leal      | 6975016000104|Prodecor Serv.p/deco|         33,00
+   508869|1    |1 |   76104|02/05/14 |   29861055991|Flavio Volpato Jr   | 6975016000104|Prodecor Serv.p/deco|          9,29
+   508869|1    |1 |   76106|02/05/14 |14763443000149|Mme Mediterraneo Emp| 6975016000104|Prodecor Serv.p/deco|         11,69
+        0|1    |1 |   76107|02/05/14 |   71509771115|Lizie Taguchi       |89962294000146|Florense            |          1,00
+   508869|1    |1 |   76111|02/05/14 | 6975016000104|Prodecor Serv.p/deco| 6975016000104|Prodecor Serv.p/deco|         19,44
+        0|1    |1 |   76168|02/05/14 | 5746825000173|Big Gas Vr          |89962294000146|Florense            |          1,00
+   508868|1    |1 |   76169|02/05/14 |11825426000109|Orthoimplant Clinica| 5542012000161|La-gatta Representac|         25,28
+   509366|1    |1 |   76194|06/05/14 |    3049638877|Carlos Alberto Greco| 3070065000100|Maxi Alpha Serv.e Re|        596,49
+   509366|1    |1 |   76195|06/05/14 |    3049638877|Carlos Alberto Greco| 3070065000100|Maxi Alpha Serv.e Re|        818,85
+   509366|1    |1 |   76197|06/05/14 |   11835650899|Jose Roberto Pacheco| 3070065000100|Maxi Alpha Serv.e Re|        596,04
+   509366|1    |1 |   76198|06/05/14 |    3049638877|Carlos Alberto Greco| 3070065000100|Maxi Alpha Serv.e Re|        433,11
+   509366|1    |1 |   76199|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        324,37
+   509366|1    |1 |   76200|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        314,72
+   509366|1    |1 |   76201|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        229,76
+   509366|1    |1 |   76202|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        229,76
+   509366|1    |1 |   76203|06/05/14 |   11835650899|Jose Roberto Pacheco| 3070065000100|Maxi Alpha Serv.e Re|        383,41
+   509366|1    |1 |   76204|06/05/14 |    3049638877|Carlos Alberto Greco| 3070065000100|Maxi Alpha Serv.e Re|        185,11
+   509366|1    |1 |   76205|06/05/14 |   13040717820|Ariana Massari      | 3070065000100|Maxi Alpha Serv.e Re|        258,36
+   509366|1    |1 |   76206|06/05/14 |    3049638877|Carlos Alberto Greco| 3070065000100|Maxi Alpha Serv.e Re|        175,92
+   509366|1    |1 |   76207|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         93,45
+   509366|1    |1 |   76208|06/05/14 |    5447120802|Julio Cesar         | 3070065000100|Maxi Alpha Serv.e Re|        112,08
+   509366|1    |1 |   76209|06/05/14 |    2723864804|Luis Massao Nakamura| 3070065000100|Maxi Alpha Serv.e Re|         81,08
+   509366|1    |1 |   76210|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         21,16
+   509366|1    |1 |   76211|06/05/14 |    5447120802|Julio Cesar         | 3070065000100|Maxi Alpha Serv.e Re|         34,25
+   509366|1    |1 |   76212|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         21,46
+   509366|1    |1 |   76213|06/05/14 | 3616538000113|Diase               | 3070065000100|Maxi Alpha Serv.e Re|         32,39
+   509366|1    |1 |   76214|06/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         40,89
+        0|1    |1 |   76215|06/05/14 |   10487888812|Gilson              |89962294000146|Florense            |          1,00
+   509366|1    |1 |   76216|06/05/14 |   13040717820|Ariana Massari      | 3070065000100|Maxi Alpha Serv.e Re|        112,40
+   509366|1    |1 |   76217|06/05/14 |    4017699847|Suzete Gomes Paes   | 3070065000100|Maxi Alpha Serv.e Re|        454,92
+   509366|1    |1 |   76218|06/05/14 |    4017699847|Suzete Gomes Paes   | 3070065000100|Maxi Alpha Serv.e Re|         95,64
+   509366|1    |1 |   76219|06/05/14 |    4017699847|Suzete Gomes Paes   | 3070065000100|Maxi Alpha Serv.e Re|        133,36
+   509366|1    |1 |   76220|06/05/14 |   26985598889|Joao Carlos Elias Ri| 3070065000100|Maxi Alpha Serv.e Re|        619,59
+   509366|1    |1 |   76221|06/05/14 |   17333232875|Andre Frances Nassar| 3070065000100|Maxi Alpha Serv.e Re|         13,94
+   509366|1    |1 |   76222|06/05/14 |   27718217884|David da Silva Koyam| 3070065000100|Maxi Alpha Serv.e Re|         12,83
+   509366|1    |1 |   76223|06/05/14 |    2723864804|Luis Massao Nakamura| 3070065000100|Maxi Alpha Serv.e Re|         23,35
+   509366|1    |1 |   76224|06/05/14 |   30517376822|Patricia Macedo de A| 3070065000100|Maxi Alpha Serv.e Re|         30,99
+        0|1    |1 |   76225|06/05/14 |65783672000166|Feriotti Repres Serv|89962294000146|Florense            |          1,00
+   509386|1    |1 |   76226|06/05/14 |   14738560867|Carlos Alberto      |65783672000166|Feriotti Repres Serv|         24,80
+   509366|1    |1 |   76227|06/05/14 | 3070065000100|Maxi Alpha Serv.e Re| 3070065000100|Maxi Alpha Serv.e Re|         11,50
+   509375|1    |1 |   76243|06/05/14 |    9649242775|Paula de Oliveira La| 8242411000103|Lavaredo Servicos e |      1.940,75
+   509370|1    |1 |   76244|06/05/14 |   58422510197|Janaina de Jesus Lim| 6877442000288|Master              |      1.885,82
+   509370|1    |1 |   76245|06/05/14 |    8268327766|Renata O.costa Novo | 6877442000288|Master              |      1.553,86
+   509375|1    |1 |   76246|06/05/14 |    9649242775|Paula de Oliveira La| 8242411000103|Lavaredo Servicos e |        878,58
+   509375|1    |1 |   76247|06/05/14 |   10638072719|Daniele Ferreira Cos| 8242411000103|Lavaredo Servicos e |      1.715,29
+   509375|1    |1 |   76248|06/05/14 |   66820880782|Thereza Cristina Lyr| 8242411000103|Lavaredo Servicos e |      1.312,22
+   509375|1    |1 |   76249|06/05/14 |   66776724768|Fernando Paulo de Sa| 8242411000103|Lavaredo Servicos e |      1.265,69
+   509370|1    |1 |   76250|06/05/14 |   14385899134|Jose Roberto Bassul | 6877442000288|Master              |      1.022,40
+   509370|1    |1 |   76251|06/05/14 |    8268327766|Renata O.costa Novo | 6877442000288|Master              |        244,85
+   509370|1    |1 |   76252|06/05/14 |   77002989715|Marisol Ramos Perez | 6877442000288|Master              |        328,52
+   509375|1    |1 |   76253|06/05/14 |    9649242775|Paula de Oliveira La| 8242411000103|Lavaredo Servicos e |         91,00
+   509370|1    |1 |   76254|06/05/14 |    5807886798|Joana Maria da Costa| 6877442000288|Master              |        218,74
+   509375|1    |1 |   76255|06/05/14 |    9649242775|Paula de Oliveira La| 8242411000103|Lavaredo Servicos e |        127,49
+   509370|1    |1 |   76256|06/05/14 |   62873393734|Fatima Villela Vahia| 6877442000288|Master              |        231,68
+   509375|1    |1 |   76257|06/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |         95,98
+   509370|1    |1 |   76258|06/05/14 |    9924633784|Mariana Alburquerque| 6877442000288|Master              |        145,33
+   509185|1    |1 |   76259|06/05/14 |   38168332504|Maria Lucia Vieira S|32109399000130|Kolloda Repres e Ser|         27,85
+   509370|1    |1 |   76260|06/05/14 |   62873393734|Fatima Villela Vahia| 6877442000288|Master              |         77,59
+   509375|1    |1 |   76261|06/05/14 |    7872006707|Fernanda G. D. Barce| 8242411000103|Lavaredo Servicos e |         21,82
+   509185|1    |1 |   76262|06/05/14 |    1400578701|Alexandre de Moura T|32109399000130|Kolloda Repres e Ser|         68,00
+   509185|1    |1 |   76263|06/05/14 |    5383794808|Reginaldo Teiji Gamb|32109399000130|Kolloda Repres e Ser|         21,04
+   509370|1    |1 |   76264|06/05/14 |   59528443753|Denise Pillar Cabral| 6877442000288|Master              |          8,64
+   509185|1    |1 |   76265|06/05/14 |    5295069710|Silvio Orlandini    |32109399000130|Kolloda Repres e Ser|         18,96
+   509303|1    |1 |   76573|07/05/14 | 5367154000130|Unica Repres        |89962294000146|Florense            |         39,30
+   509375|1    |1 |   76574|07/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |        213,84
+   509375|1    |1 |   76575|07/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |        616,06
+   509375|1    |1 |   76576|07/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |      1.223,49
+   509375|1    |1 |   76577|07/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |      1.136,88
+   509568|1    |1 |   76635|09/05/14 |   89157630763|Elaine Monken de Cas|89962294000146|Florense            |        695,49
+   509370|1    |1 |   76636|09/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |      1.013,03
+   509370|1    |1 |   76637|09/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |      1.018,53
+   509370|1    |1 |   76638|09/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |        118,84
+   509370|1    |1 |   76639|09/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |        216,42
+   509375|1    |1 |   76640|09/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |         57,03
+   509370|1    |1 |   76641|09/05/14 |    4518250710|Albert Levy         | 6877442000288|Master              |      2.106,60
+   509375|1    |1 |   76642|09/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |      2.842,66
+   509439|1    |1 |   76643|09/05/14 |    4853113487|Ivan Pessoa de Melo |32109399000130|Kolloda Repres e Ser|        952,95
+   509439|1    |1 |   76644|09/05/14 |    4853113487|Ivan Pessoa de Melo |32109399000130|Kolloda Repres e Ser|        433,98
+   509370|1    |1 |   76645|09/05/14 |   76640833700|Anibal Augusto Ferna| 6877442000288|Master              |      1.576,36
+   509375|1    |1 |   76646|09/05/14 |   53969715768|Celina Ferreira Leit| 8242411000103|Lavaredo Servicos e |         25,65
+   509375|1    |1 |   76647|09/05/14 |    1266691715|Jorge Michirefe     | 8242411000103|Lavaredo Servicos e |         17,42
+   509375|1    |1 |   76648|09/05/14 |   10779712730|Rafael Picciani     | 8242411000103|Lavaredo Servicos e |         22,92
+   509375|1    |1 |   76649|09/05/14 |    5955858920|Nilo Sergio de A. Me| 8242411000103|Lavaredo Servicos e |        881,39
+   509375|1    |1 |   76650|09/05/14 |    5955858920|Nilo Sergio de A. Me| 8242411000103|Lavaredo Servicos e |        291,58
+   509375|1    |1 |   76651|09/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |      1.319,06
+   509375|1    |1 |   76652|09/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        275,87
+   509375|1    |1 |   76653|09/05/14 |    8304579766|Leandro             | 8242411000103|Lavaredo Servicos e |        169,78
+   509375|1    |1 |   76654|09/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        196,76
+   509370|1    |1 |   76655|09/05/14 |    6924521762|Eduardo Francisco P.| 6877442000288|Master              |      2.358,15
+   509370|1    |1 |   76656|09/05/14 |    6924521762|Eduardo Francisco P.| 6877442000288|Master              |        495,10
+   509370|1    |1 |   76657|09/05/14 |    8779502709|Eduardo Henrique Tri| 6877442000288|Master              |      1.051,67
+        0|1    |1 |   76658|09/05/14 |    1788288742|Alexsandro Oliveira |89962294000146|Florense            |          1,00
+   509375|1    |1 |   76659|09/05/14 |   11347171487|Amelio Fernando de G| 8242411000103|Lavaredo Servicos e |        186,98
+   509370|1    |1 |   76660|09/05/14 |    6972318793|Renata Bandeira de M| 6877442000288|Master              |      1.712,74
+   509370|1    |1 |   76661|09/05/14 |    6972318793|Renata Bandeira de M| 6877442000288|Master              |      1.407,63
+   509370|1    |1 |   76662|09/05/14 |    6972318793|Renata Bandeira de M| 6877442000288|Master              |        230,65
+   509370|1    |1 |   76663|09/05/14 |    2442244713|Karin Cagy          | 6877442000288|Master              |      1.850,95
+   509370|1    |1 |   76664|09/05/14 |    2442244713|Karin Cagy          | 6877442000288|Master              |      1.136,32
+   509370|1    |1 |   76665|09/05/14 |   23270317883|Eric Cullenberg     | 6877442000288|Master              |        460,26
+   509439|1    |1 |   76666|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        445,93
+   509439|1    |1 |   76667|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        105,45
+   509439|1    |1 |   76668|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        806,65
+   509439|1    |1 |   76669|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|         89,34
+   509439|1    |1 |   76670|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        579,22
+   509439|1    |1 |   76671|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        605,91
+   509439|1    |1 |   76672|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        105,45
+   509439|1    |1 |   76673|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        549,47
+   509439|1    |1 |   76674|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        105,45
+   509439|1    |1 |   76675|09/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        428,32
+   509439|1    |1 |   76676|09/05/14 |   42348650606|Martha P da R Hisse |32109399000130|Kolloda Repres e Ser|        168,45
+   509375|1    |1 |   76677|09/05/14 |10869827000190|Terras Altas Log e C| 8242411000103|Lavaredo Servicos e |        414,50
+   509375|1    |1 |   76678|09/05/14 |   11921906880|Renan Aguiar        | 8242411000103|Lavaredo Servicos e |         16,75
+   509370|1    |1 |   76679|09/05/14 |    1185794603|Suzana Andrade Surer| 6877442000288|Master              |        141,93
+   509439|1    |1 |   76680|09/05/14 |     689712731|Ana Cristina Rachid |32109399000130|Kolloda Repres e Ser|         52,51
+   509439|1    |1 |   76681|09/05/14 |   75535661791|Jorge Luiz Guerra Vi|32109399000130|Kolloda Repres e Ser|        242,70
+   509370|1    |1 |   76682|09/05/14 |    8162820728|Paulo Alexandre Borg| 6877442000288|Master              |         34,37
+   509370|1    |1 |   76683|09/05/14 |   60680032720|Elena Landau        | 6877442000288|Master              |         43,89
+   509370|1    |1 |   76684|09/05/14 |    3784673791|Abrao               | 6877442000288|Master              |         83,00
+   509439|1    |1 |   76685|09/05/14 |   10015642780|Fabio Jose de Olivei|32109399000130|Kolloda Repres e Ser|         60,60
+   509370|1    |1 |   76686|09/05/14 |    2346547751|Gloria Maria de Souz| 6877442000288|Master              |         38,49
+   509439|1    |1 |   76687|09/05/14 |    5285934710|Felipe C Goncalves d|32109399000130|Kolloda Repres e Ser|         22,73
+   509370|1    |1 |   76688|09/05/14 |   54601720710|Antonio             | 6877442000288|Master              |         26,11
+   509375|1    |1 |   76689|09/05/14 |   33583943791|Rafael Schechtman   | 8242411000103|Lavaredo Servicos e |          8,78
+   509375|1    |1 |   76690|09/05/14 |   69387087620|Carlos Jorge de Andr| 8242411000103|Lavaredo Servicos e |         15,06
+        0|1    |1 |   76691|09/05/14 |   85418242768|Deborah Barbosa Sarm|89962294000146|Florense            |          1,00
+   509375|1    |1 |   76692|09/05/14 |   70446105015|Suzana Strauch      | 8242411000103|Lavaredo Servicos e |         25,97
+        0|1    |1 |   76693|09/05/14 |31432792000105|Unimed Est.rio de Ja|89962294000146|Florense            |          1,00
+   509370|1    |1 |   76694|09/05/14 |     541265768|Haroldo Miller Junio| 6877442000288|Master              |         15,36
+   509370|1    |1 |   76695|09/05/14 |    4518250710|Albert Levy         | 6877442000288|Master              |         26,13
+   509370|1    |1 |   76696|09/05/14 |   11035437767|Leonardo Turano de C| 6877442000288|Master              |         13,69
+   509375|1    |1 |   76697|09/05/14 |   66820880782|Thereza Cristina Lyr| 8242411000103|Lavaredo Servicos e |        233,94
+   509439|1    |1 |   76698|09/05/14 |12261679000151|Inovare Rep. e Serv.|32109399000130|Kolloda Repres e Ser|         15,01
+   509375|1    |1 |   76699|09/05/14 |   38367947720|Yvonne Vera Kossmann| 8242411000103|Lavaredo Servicos e |         37,06
+   509375|1    |1 |   76700|09/05/14 |    1480135704|Gustavo Baptista Alv| 8242411000103|Lavaredo Servicos e |         93,54
+   509439|1    |1 |   76701|09/05/14 |   38168332504|Maria Lucia Vieira S|32109399000130|Kolloda Repres e Ser|         51,56
+   509375|1    |1 |   76702|09/05/14 |    7642575793|Alex Melo Silva     | 8242411000103|Lavaredo Servicos e |         12,93
+        0|1    |1 |   76703|09/05/14 |   28239762808|Leda Rejane Gusson  |89962294000146|Florense            |          1,00
+   509370|1    |1 |   76704|09/05/14 |    9917210717|Amanda Wanderley    | 6877442000288|Master              |         18,35
+   509370|1    |1 |   76705|09/05/14 |   18180450600|Lauro               | 6877442000288|Master              |         27,25
+   509439|1    |1 |   76706|09/05/14 |   57235279753|Maria Eugenia Leite |32109399000130|Kolloda Repres e Ser|          8,60
+   509370|1    |1 |   76707|09/05/14 |    8555625793|Roberta Nabuco      | 6877442000288|Master              |         44,81
+   509370|1    |1 |   76708|09/05/14 |    8555625793|Roberta Nabuco      | 6877442000288|Master              |         10,72
+        0|1    |1 |   76709|09/05/14 |   96402652768|Ricardo Mauricio Dut|89962294000146|Florense            |          1,00
+        0|1    |1 |   76710|09/05/14 |    5506993765|Fabiana             |89962294000146|Florense            |          1,00
+   509375|1    |1 |   76711|09/05/14 |    7603041732|Daniela Alves P. Duq| 8242411000103|Lavaredo Servicos e |          9,94
+   509439|1    |1 |   76712|09/05/14 |   70705089720|Catia Fernandes Barb|32109399000130|Kolloda Repres e Ser|         20,33
+   509370|1    |1 |   76713|09/05/14 |   60001038753|Claudio Gomes de Mat| 6877442000288|Master              |      1.631,89
+   509375|1    |1 |   76714|09/05/14 |    3354198796|Fabiana Dalmaso     | 8242411000103|Lavaredo Servicos e |        102,84
+   509375|1    |1 |   76715|09/05/14 |    3354198796|Fabiana Dalmaso     | 8242411000103|Lavaredo Servicos e |        403,59
+   509370|1    |1 |   76716|09/05/14 |    1791749755|Victor Henrique Poza| 6877442000288|Master              |        542,08
+   509370|1    |1 |   76717|09/05/14 |    1791749755|Victor Henrique Poza| 6877442000288|Master              |        606,47
+   509370|1    |1 |   76718|09/05/14 |    1791749755|Victor Henrique Poza| 6877442000288|Master              |        518,53
+   509375|1    |1 |   76719|09/05/14 |    3354198796|Fabiana Dalmaso     | 8242411000103|Lavaredo Servicos e |        850,01
+   509375|1    |1 |   76720|09/05/14 |    3354198796|Fabiana Dalmaso     | 8242411000103|Lavaredo Servicos e |        699,76
+   509375|1    |1 |   76721|09/05/14 |   95260609700|Carlos              | 8242411000103|Lavaredo Servicos e |        736,76
+   509375|1    |1 |   76722|09/05/14 |   95260609700|Carlos              | 8242411000103|Lavaredo Servicos e |        266,76
+   509375|1    |1 |   76723|09/05/14 |   95260609700|Carlos              | 8242411000103|Lavaredo Servicos e |        405,48
+   509375|1    |1 |   76724|09/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |         54,37
+   509371|1    |1 |   76875|09/05/14 |    1156332940|Fabrice Guy Patrick | 6975016000104|Prodecor Serv.p/deco|      1.325,93
+   509371|1    |1 |   76876|09/05/14 |   23772263020|Nara Maria Fassina C| 6975016000104|Prodecor Serv.p/deco|        543,30
+   509371|1    |1 |   76877|09/05/14 |   53264720906|Joao Eduardo Nunes G| 6975016000104|Prodecor Serv.p/deco|        445,56
+   509371|1    |1 |   76878|09/05/14 | 6050054000148|Rjd Incorp. Adm. Imo| 6975016000104|Prodecor Serv.p/deco|         87,88
+   509371|1    |1 |   76879|09/05/14 | 7398938000150|Prop. Em Onibus     | 6975016000104|Prodecor Serv.p/deco|          8,47
+   509371|1    |1 |   76880|09/05/14 |    4152409568|Francisco Matos Fran| 6975016000104|Prodecor Serv.p/deco|          5,43
+        0|1    |1 |   76881|09/05/14 |   24082937072|Jorge Altair Pinto S|89962294000146|Florense            |          1,00
+        0|1    |1 |   76882|09/05/14 |   34748377704|Augusto             |89962294000146|Florense            |          1,00
+        0|1    |1 |   76883|09/05/14 | 6975016000104|Prodecor Serv.p/deco|89962294000146|Florense            |          1,00
+   509365|1    |1 |   76885|09/05/14 |  424011000107|Vicenza             |  289620000192|Vicenza Serv e Repre|      1.082,78
+   509365|1    |1 |   76888|09/05/14 | 6081065000195|Haacke Empreend. Imo|  289620000192|Vicenza Serv e Repre|         32,59
+   509369|1    |1 |   77168|09/05/14 |   75442884715|Ednilson dos Reis Fe| 5542012000161|La-gatta Representac|          3,52
+   509369|1    |1 |   77169|09/05/14 |10383980000102|Oliveira & Rondelli | 5542012000161|La-gatta Representac|          4,85
+   509568|1    |1 |   77171|09/05/14 | 6324324000161|Delta S. C. e Equip.|89962294000146|Florense            |        543,22
+   509369|1    |1 |   77183|09/05/14 |   57736189668|Claudia Soares Reis | 5542012000161|La-gatta Representac|         99,95
+   509402|1    |1 |   77208|09/05/14 |    2033651789|Michele Alves Baroso| 7924326000154|Dalman              |        977,98
+   509402|1    |1 |   77209|09/05/14 |    2033651789|Michele Alves Baroso| 7924326000154|Dalman              |      1.614,22
+   509402|1    |1 |   77210|09/05/14 |    2033651789|Michele Alves Baroso| 7924326000154|Dalman              |      1.781,23
+   509402|1    |1 |   77211|09/05/14 |   57562814791|Jussara Careta      | 7924326000154|Dalman              |      1.072,28
+   509402|1    |1 |   77212|09/05/14 |    8642830751|Kamilla de Almeida M| 7924326000154|Dalman              |      1.309,29
+   509402|1    |1 |   77213|09/05/14 |    8642830751|Kamilla de Almeida M| 7924326000154|Dalman              |        449,17
+   509402|1    |1 |   77214|09/05/14 |    3204326616|Jose Braz Neto      | 7924326000154|Dalman              |        127,13
+   509402|1    |1 |   77215|09/05/14 |    8642830751|Kamilla de Almeida M| 7924326000154|Dalman              |         76,22
+   509402|1    |1 |   77216|09/05/14 | 7924326000154|Dalman              | 7924326000154|Dalman              |          5,74
+   509375|1    |1 |   77261|09/05/14 |    4825459765|Glaucio da Cunha San| 8242411000103|Lavaredo Servicos e |        849,58
+   509366|1    |1 |   77328|09/05/14 |   81293534820|Jose                | 3070065000100|Maxi Alpha Serv.e Re|        691,37
+   509366|1    |1 |   77329|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        216,49
+   509366|1    |1 |   77330|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        247,76
+   509366|1    |1 |   77331|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|        196,17
+   509366|1    |1 |   77332|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         24,17
+   509366|1    |1 |   77333|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         23,35
+   509366|1    |1 |   77334|09/05/14 |   67319319853|Joao Climaco Pereira| 3070065000100|Maxi Alpha Serv.e Re|         25,54
+   509366|1    |1 |   77335|09/05/14 |51945632000169|Exto Eng. e Construc| 3070065000100|Maxi Alpha Serv.e Re|        789,61
+   509366|1    |1 |   77336|09/05/14 |51945632000169|Exto Eng. e Construc| 3070065000100|Maxi Alpha Serv.e Re|        787,25
+   509366|1    |1 |   77337|09/05/14 |51945632000169|Exto Eng. e Construc| 3070065000100|Maxi Alpha Serv.e Re|        692,55
+   509366|1    |1 |   77338|09/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|      1.128,55
+   509366|1    |1 |   77339|09/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|        503,37
+   509366|1    |1 |   77340|09/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|        161,13
+   509366|1    |1 |   77341|09/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|         77,61
+   509366|1    |1 |   77342|09/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|         87,50
+   509366|1    |1 |   77343|09/05/14 |   27718217884|David da Silva Koyam| 3070065000100|Maxi Alpha Serv.e Re|         63,03
+        0|1    |1 |   77344|09/05/14 |   27718217884|David da Silva Koyam|89962294000146|Florense            |          1,00
+        0|1    |1 |   77345|09/05/14 |    2245516800|Rafael Navarro Ortiz|89962294000146|Florense            |          1,00
+   509366|1    |1 |   77346|09/05/14 |   30812459822|Solange             | 3070065000100|Maxi Alpha Serv.e Re|          3,80
+   509366|1    |1 |   77347|09/05/14 |   95011854949|Nathan              | 3070065000100|Maxi Alpha Serv.e Re|         47,36
+   509366|1    |1 |   77348|09/05/14 | 3070065000100|Maxi Alpha Serv.e Re| 3070065000100|Maxi Alpha Serv.e Re|        133,87
+   509366|1    |1 |   77349|09/05/14 |   99045478820|Vera Lucia Bueno Fao| 3070065000100|Maxi Alpha Serv.e Re|         35,48
+   509366|1    |1 |   77350|09/05/14 |   81293534820|Jose                | 3070065000100|Maxi Alpha Serv.e Re|        342,85
+   509366|1    |1 |   77351|09/05/14 |   81293534820|Jose                | 3070065000100|Maxi Alpha Serv.e Re|        134,40
+   509366|1    |1 |   77352|09/05/14 |   11333851847|Maria Del Carmen Chu| 3070065000100|Maxi Alpha Serv.e Re|          7,24
+   509366|1    |1 |   77353|09/05/14 |   81293534820|Jose                | 3070065000100|Maxi Alpha Serv.e Re|      1.183,00
+   509366|1    |1 |   77354|09/05/14 |   12548800890|Rene Santiago dos Sa| 3070065000100|Maxi Alpha Serv.e Re|         18,38
+   509386|1    |1 |   77355|09/05/14 |     452875897|Maria de Fatima Neve|65783672000166|Feriotti Repres Serv|        700,72
+        0|1    |1 |   77356|09/05/14 |   94971463887|Luis Carlos         |89962294000146|Florense            |          1,00
+        0|1    |1 |   77357|09/05/14 |    6801514865|Lilian Honda Furushi|89962294000146|Florense            |          1,00
+        0|1    |1 |   77358|09/05/14 |    6670212801|Angela Morrone Perez|89962294000146|Florense            |          1,00
+        0|1    |1 |   77359|09/05/14 |   17020951856|Alexandre Gargano Pi|89962294000146|Florense            |          1,00
+   509386|1    |1 |   77360|09/05/14 |   11384907840|Eduardo Nicola Tsomb|65783672000166|Feriotti Repres Serv|          5,51
+   509386|1    |1 |   77361|09/05/14 |   18363393649|Jose Ubirajara Cobra|65783672000166|Feriotti Repres Serv|         39,04
+   509995|1    |1 |   77517|12/05/14 |   27698331890|Luiz Paulo Eigenheer| 3070065000100|Maxi Alpha Serv.e Re|        101,35
+   509995|1    |1 |   77518|12/05/14 |   27698331890|Luiz Paulo Eigenheer| 3070065000100|Maxi Alpha Serv.e Re|         47,31
+   509995|1    |1 |   77519|12/05/14 |    1177000881|Jose Roberto        | 3070065000100|Maxi Alpha Serv.e Re|        142,05
+   509995|1    |1 |   77520|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|        171,30
+   509995|1    |1 |   77521|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|        142,14
+   509995|1    |1 |   77522|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|        703,25
+   509995|1    |1 |   77523|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|         27,61
+   509995|1    |1 |   77524|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|         27,37
+   509995|1    |1 |   77525|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|        148,30
+   509995|1    |1 |   77526|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|         34,62
+   509995|1    |1 |   77527|12/05/14 |   32529340862|Priscilla S. Ribeiro| 3070065000100|Maxi Alpha Serv.e Re|        194,65
+   509995|1    |1 |   77528|12/05/14 |   32529340862|Priscilla S. Ribeiro| 3070065000100|Maxi Alpha Serv.e Re|         99,53
+   509995|1    |1 |   77529|12/05/14 |   32529340862|Priscilla S. Ribeiro| 3070065000100|Maxi Alpha Serv.e Re|         91,02
+   509995|1    |1 |   77530|12/05/14 |   32529340862|Priscilla S. Ribeiro| 3070065000100|Maxi Alpha Serv.e Re|        126,20
+   509995|1    |1 |   77531|12/05/14 |   32529340862|Priscilla S. Ribeiro| 3070065000100|Maxi Alpha Serv.e Re|        136,79
+   509995|1    |1 |   77532|12/05/14 |    9621013704|Caroline Araujo da S| 3070065000100|Maxi Alpha Serv.e Re|        518,49
+   509995|1    |1 |   77533|12/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|         40,60
+   509995|1    |1 |   77534|12/05/14 |    2723864804|Luis Massao Nakamura| 3070065000100|Maxi Alpha Serv.e Re|         13,17
+   510014|1    |1 |   77535|12/05/14 |   15109235864|Alessandra Machado L|65783672000166|Feriotti Repres Serv|         10,80
+   510014|1    |1 |   77536|12/05/14 |   15187816837|Mara Regina Trippo  |65783672000166|Feriotti Repres Serv|         19,31
+   510014|1    |1 |   77537|12/05/14 |    8583734836|Renato              |65783672000166|Feriotti Repres Serv|         34,48
+   510005|1    |1 |   77538|12/05/14 |    4536500740|Gabriela Mauro Zanin| 8242411000103|Lavaredo Servicos e |      1.110,23
+   510005|1    |1 |   77539|12/05/14 |    4536500740|Gabriela Mauro Zanin| 8242411000103|Lavaredo Servicos e |        843,36
+   510001|1    |1 |   77540|12/05/14 |    1299381731|Monica Prinzac      | 6877442000288|Master              |        338,27
+   510001|1    |1 |   77541|12/05/14 |    1299381731|Monica Prinzac      | 6877442000288|Master              |      1.037,60
+   510001|1    |1 |   77542|12/05/14 |    1299381731|Monica Prinzac      | 6877442000288|Master              |         66,62
+   510001|1    |1 |   77543|12/05/14 |    5258183750|Fernanda Sa Freire F| 6877442000288|Master              |        957,99
+   510001|1    |1 |   77544|12/05/14 |    5258183750|Fernanda Sa Freire F| 6877442000288|Master              |        185,88
+   510005|1    |1 |   77545|12/05/14 |   34391665115|Claudia Guimaraes Mo| 8242411000103|Lavaredo Servicos e |        666,01
+   510005|1    |1 |   77546|12/05/14 |     741514443|Adriana Barbosa B. A| 8242411000103|Lavaredo Servicos e |        447,10
+   510005|1    |1 |   77547|12/05/14 |     741514443|Adriana Barbosa B. A| 8242411000103|Lavaredo Servicos e |        210,15
+   510001|1    |1 |   77548|12/05/14 |68634021000100|Fonte da Saudade P. | 6877442000288|Master              |         75,56
+   510001|1    |1 |   77549|12/05/14 |   31612644791|Janete Koeler Araujo| 6877442000288|Master              |        103,76
+   510001|1    |1 |   77550|12/05/14 |   75624907400|Paula Coutinho      | 6877442000288|Master              |        466,42
+   510001|1    |1 |   77551|12/05/14 |   75624907400|Paula Coutinho      | 6877442000288|Master              |        134,58
+   510001|1    |1 |   77552|12/05/14 |    9226431728|Maria Eduarda de Oli| 6877442000288|Master              |         39,97
+   509720|1    |1 |   77553|12/05/14 | 3624143000162|Joao Tancredo Escrit|32109399000130|Kolloda Repres e Ser|         78,38
+        0|1    |1 |   77554|12/05/14 |    9236417779|Marcos Paulo Pereira|89962294000146|Florense            |          1,00
+   510001|1    |1 |   77555|12/05/14 |   24007978700|Leon Bak            | 6877442000288|Master              |         18,70
+   510001|1    |1 |   77556|12/05/14 |   70318689804|Maria Jose Morais   | 6877442000288|Master              |         59,44
+        0|1    |1 |   77557|12/05/14 |      96381728|Marcia Rodrigues C L|89962294000146|Florense            |          1,00
+   509720|1    |1 |   77558|12/05/14 |    7591397761|Leonardo  Lopes Cort|32109399000130|Kolloda Repres e Ser|         20,95
+   510005|1    |1 |   77559|12/05/14 |   76835090782|Marli Hastenreiter B| 8242411000103|Lavaredo Servicos e |         22,44
+   509720|1    |1 |   77560|12/05/14 |   75605694715|Carlos Alberto Menez|32109399000130|Kolloda Repres e Ser|         92,27
+   509720|1    |1 |   77561|12/05/14 |    5383794808|Reginaldo Teiji Gamb|32109399000130|Kolloda Repres e Ser|         50,15
+   509720|1    |1 |   77562|12/05/14 |12261679000151|Inovare Rep. e Serv.|32109399000130|Kolloda Repres e Ser|        102,22
+   510001|1    |1 |   77563|12/05/14 |68634021000100|Fonte da Saudade P. | 6877442000288|Master              |        277,34
+   510001|1    |1 |   77564|12/05/14 |   35836458715|Jose Roberto        | 6877442000288|Master              |        545,17
+   509752|1    |1 |   77565|12/05/14 |31432792000105|Unimed Est.rio de Ja|89962294000146|Florense            |        115,97
+   510005|1    |1 |   77566|12/05/14 |   23198974615|Marconi Tarbes Viann| 8242411000103|Lavaredo Servicos e |        402,32
+   510005|1    |1 |   77567|12/05/14 |   23198974615|Marconi Tarbes Viann| 8242411000103|Lavaredo Servicos e |        537,76
+   510001|1    |1 |   77568|12/05/14 |   34410562134|Ana Cristina de Pinh| 6877442000288|Master              |        817,54
+   510001|1    |1 |   77569|12/05/14 |   34410562134|Ana Cristina de Pinh| 6877442000288|Master              |         64,61
+   510001|1    |1 |   77570|12/05/14 |   34410562134|Ana Cristina de Pinh| 6877442000288|Master              |         53,73
+   509720|1    |1 |   77571|12/05/14 |    5245236737|Paula Froes Coelho V|32109399000130|Kolloda Repres e Ser|      3.639,97
+   509720|1    |1 |   77572|12/05/14 |    5245236737|Paula Froes Coelho V|32109399000130|Kolloda Repres e Ser|      1.385,73
+   509720|1    |1 |   77573|12/05/14 |    5245236737|Paula Froes Coelho V|32109399000130|Kolloda Repres e Ser|      1.508,03
+   510005|1    |1 |   77574|12/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |      1.275,04
+   510005|1    |1 |   77575|12/05/14 |    4825459765|Glaucio da Cunha San| 8242411000103|Lavaredo Servicos e |         37,50
+   510001|1    |1 |   77576|12/05/14 |    7181319752|Marcelo Papelbaum   | 6877442000288|Master              |        819,26
+   510001|1    |1 |   77577|12/05/14 |    7181319752|Marcelo Papelbaum   | 6877442000288|Master              |        611,98
+   510005|1    |1 |   77578|12/05/14 |   67423787604|Valeria de Oliveir P| 8242411000103|Lavaredo Servicos e |      1.352,32
+   510005|1    |1 |   77579|12/05/14 |   89023897749|Claudio Nunes de Sou| 8242411000103|Lavaredo Servicos e |        359,56
+   510001|1    |1 |   77580|12/05/14 |    7181319752|Marcelo Papelbaum   | 6877442000288|Master              |        893,20
+   510001|1    |1 |   77581|12/05/14 |    7181319752|Marcelo Papelbaum   | 6877442000288|Master              |        214,30
+   510001|1    |1 |   77582|12/05/14 |   91410940772|Elaine Radicetti    | 6877442000288|Master              |        106,70
+   509841|1    |1 |   77642|13/05/14 |   27466449832|Marcelo Gomes Clemen| 1970653000166|Moveis Fm           |      1.088,66
+   509995|1    |1 |   77646|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        786,85
+   509995|1    |1 |   77647|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        539,93
+   510014|1    |1 |   77648|13/05/14 |    1412986850|Flavio Amaral       |65783672000166|Feriotti Repres Serv|        304,18
+   509995|1    |1 |   77649|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        215,54
+   509995|1    |1 |   77650|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        128,04
+   509995|1    |1 |   77651|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        106,92
+   509995|1    |1 |   77652|13/05/14 |   25392434878|Flavia Maria Moreira| 3070065000100|Maxi Alpha Serv.e Re|        149,97
+   510014|1    |1 |   77653|13/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|        210,27
+   510014|1    |1 |   77654|13/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|        229,75
+   510014|1    |1 |   77655|13/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|        114,64
+   510014|1    |1 |   77656|13/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|          3,26
+   510014|1    |1 |   77657|13/05/14 |65783672000166|Feriotti Repres Serv|65783672000166|Feriotti Repres Serv|        149,77
+   509835|1    |1 |   77725|13/05/14 |   80656250704|Julio Cezar Xavier R|32109399000130|Kolloda Repres e Ser|      1.690,45
+   509835|1    |1 |   77726|13/05/14 |   80656250704|Julio Cezar Xavier R|32109399000130|Kolloda Repres e Ser|      1.407,05
+   510001|1    |1 |   77727|13/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |         32,19
+   510005|1    |1 |   77728|13/05/14 |    9649242775|Paula de Oliveira La| 8242411000103|Lavaredo Servicos e |        568,36
+   510005|1    |1 |   77729|13/05/14 |   96675390759|Andrea Marinho      | 8242411000103|Lavaredo Servicos e |         49,57
+   510001|1    |1 |   77730|13/05/14 |    6972318793|Renata Bandeira de M| 6877442000288|Master              |         34,60
+   510005|1    |1 |   77731|13/05/14 |   96400471715|Oswaldo Ferreira de | 8242411000103|Lavaredo Servicos e |        157,66
+   510005|1    |1 |   77732|13/05/14 |    3347443772|Lilia Morgado Alves | 8242411000103|Lavaredo Servicos e |      1.125,29
+   510005|1    |1 |   77733|13/05/14 |   66443105753|Andreia Camargo     | 8242411000103|Lavaredo Servicos e |      1.525,26
+   510001|1    |1 |   77734|13/05/14 |   65952880444|Weidson Galindo     | 6877442000288|Master              |      1.779,70
+   510001|1    |1 |   77735|13/05/14 |    1429092700|Roberto Davi Benisti| 6877442000288|Master              |      1.197,07
+   510001|1    |1 |   77736|13/05/14 |    1429092700|Roberto Davi Benisti| 6877442000288|Master              |        487,91
+   510001|1    |1 |   77737|13/05/14 |    1429092700|Roberto Davi Benisti| 6877442000288|Master              |      1.826,53
+   510005|1    |1 |   77738|13/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |         55,24
+   509835|1    |1 |   77739|13/05/14 |    1888359706|Pablo Caldeira Teixe|32109399000130|Kolloda Repres e Ser|        242,74
+   510005|1    |1 |   77740|13/05/14 |   40214427587|Celia Barros        | 8242411000103|Lavaredo Servicos e |        129,76
+   509835|1    |1 |   77741|13/05/14 |    3985385734|Alfredo Bezerra Cama|32109399000130|Kolloda Repres e Ser|         68,76
+   510005|1    |1 |   77742|13/05/14 |    2274965749|Jarbas Guimaraes Pon| 8242411000103|Lavaredo Servicos e |        147,14
+   509998|1    |1 |   77743|13/05/14 |    1450314708|Eliane Tabak        | 3835676000193|M D B L Serv.e Repre|        166,60
+   510005|1    |1 |   77744|13/05/14 |   40596133715|Fernando Barroso Fil| 8242411000103|Lavaredo Servicos e |         86,16
+   509998|1    |1 |   77745|13/05/14 |   34545360734|Ricardo Pelizzaro   | 3835676000193|M D B L Serv.e Repre|        116,15
+   509809|1    |1 |   77804|13/05/14 |   60196165849|Jose Maria de Araujo| 7924326000154|Dalman              |        459,38
+   509809|1    |1 |   77868|14/05/14 |  805711000133|Global Dist. e Repre| 7924326000154|Dalman              |        541,47
+   510014|1    |1 |   77957|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|      2.009,71
+   510014|1    |1 |   77958|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        881,09
+   510014|1    |1 |   77959|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        730,88
+   510014|1    |1 |   77960|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        382,51
+   510014|1    |1 |   77961|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        315,91
+   510014|1    |1 |   77962|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        184,34
+   510014|1    |1 |   77963|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        262,24
+   510014|1    |1 |   77964|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|         46,58
+   510014|1    |1 |   77965|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        147,70
+   510014|1    |1 |   77966|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|          2,88
+   510014|1    |1 |   77967|14/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|        100,86
+   509995|1    |1 |   77968|14/05/14 |   22072671809|Francisco Assis S.am| 3070065000100|Maxi Alpha Serv.e Re|        552,75
+   509995|1    |1 |   77969|14/05/14 |    7324621856|Marcelo Doll Martine| 3070065000100|Maxi Alpha Serv.e Re|         51,53
+   509995|1    |1 |   77970|14/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|        141,24
+   510014|1    |1 |   77971|14/05/14 | 7890472000106|Gradual             |65783672000166|Feriotti Repres Serv|         25,30
+        0|1    |1 |   77972|14/05/14 | 7354240000133|Up! Comercial de Cos|89962294000146|Florense            |          1,00
+   510047|1    |1 |   78181|16/05/14 |   10015642780|Fabio Jose de Olivei|32109399000130|Kolloda Repres e Ser|      1.629,47
+   510001|1    |1 |   78182|16/05/14 |18402543000109|Retorno Emp. Imob e | 6877442000288|Master              |      3.596,54
+   510001|1    |1 |   78183|16/05/14 |   69184160730|Maria Lucia Gomes Pe| 6877442000288|Master              |      2.625,85
+   510001|1    |1 |   78184|16/05/14 |   69184160730|Maria Lucia Gomes Pe| 6877442000288|Master              |      1.869,82
+   510001|1    |1 |   78185|16/05/14 |   69184160730|Maria Lucia Gomes Pe| 6877442000288|Master              |        671,10
+   510005|1    |1 |   78186|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        813,96
+   510005|1    |1 |   78187|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |      1.169,74
+   510005|1    |1 |   78188|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |      3.396,97
+   510005|1    |1 |   78190|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        584,03
+   510005|1    |1 |   78191|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        705,18
+   510005|1    |1 |   78192|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |      2.127,42
+   510005|1    |1 |   78193|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |      1.210,00
+   510005|1    |1 |   78194|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |      1.331,90
+   510005|1    |1 |   78195|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |      1.173,29
+   510005|1    |1 |   78196|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |      2.118,12
+   510005|1    |1 |   78197|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        251,41
+   510005|1    |1 |   78198|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        585,15
+   510005|1    |1 |   78199|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        914,75
+   510005|1    |1 |   78200|16/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        343,87
+   510005|1    |1 |   78201|16/05/14 |   29557933704|Luiz Fernando de Ara| 8242411000103|Lavaredo Servicos e |      1.103,31
+   510005|1    |1 |   78202|16/05/14 |   29557933704|Luiz Fernando de Ara| 8242411000103|Lavaredo Servicos e |        177,52
+   510005|1    |1 |   78203|16/05/14 |   12483415709|Camila Cristina da S| 8242411000103|Lavaredo Servicos e |      2.709,76
+   510001|1    |1 |   78204|16/05/14 |    1791749755|Victor Henrique Poza| 6877442000288|Master              |      1.433,19
+   510005|1    |1 |   78205|16/05/14 |   29557933704|Luiz Fernando de Ara| 8242411000103|Lavaredo Servicos e |        203,32
+   510001|1    |1 |   78206|16/05/14 |    3742240722|Daniel              | 6877442000288|Master              |          6,44
+   510001|1    |1 |   78207|16/05/14 |    9498933740|Alexandre Rocha Cunh| 6877442000288|Master              |         11,22
+        0|1    |1 |   78208|16/05/14 |      29253705|Patricia Gregorio De|89962294000146|Florense            |          1,00
+   510001|1    |1 |   78209|16/05/14 |   82844933734|Cidalia Namora      | 6877442000288|Master              |         26,03
+   510005|1    |1 |   78210|16/05/14 |   16022645700|Eunice Mendes de Far| 8242411000103|Lavaredo Servicos e |         26,72
+   510047|1    |1 |   78211|16/05/14 |    5337752723|Igor de Salles Monte|32109399000130|Kolloda Repres e Ser|         51,69
+   510005|1    |1 |   78212|16/05/14 |   15488233768|Ivan Ribeiro Barroso| 8242411000103|Lavaredo Servicos e |         23,94
+   510001|1    |1 |   78213|16/05/14 |   77726120525|Catharina Maria C. D| 6877442000288|Master              |          9,77
+   510047|1    |1 |   78214|16/05/14 |    4811288750|Kamila de Oliveira N|32109399000130|Kolloda Repres e Ser|         50,84
+   510005|1    |1 |   78215|16/05/14 |    5185974745|Patricia Beloch     | 8242411000103|Lavaredo Servicos e |         16,24
+   510047|1    |1 |   78216|16/05/14 |    7088631750|Renato Barcellos Soa|32109399000130|Kolloda Repres e Ser|        140,21
+   510005|1    |1 |   78217|16/05/14 |     851247709|Andre Silva Seabra  | 8242411000103|Lavaredo Servicos e |        285,24
+   510005|1    |1 |   78218|16/05/14 |     851247709|Andre Silva Seabra  | 8242411000103|Lavaredo Servicos e |      1.202,41
+   510005|1    |1 |   78219|16/05/14 |     851247709|Andre Silva Seabra  | 8242411000103|Lavaredo Servicos e |        518,85
+   510005|1    |1 |   78220|16/05/14 |   66594820753|Adriana Maria Merell| 8242411000103|Lavaredo Servicos e |        377,80
+   510005|1    |1 |   78221|16/05/14 |    9189484797|Joao Frederico      | 8242411000103|Lavaredo Servicos e |        227,02
+   510005|1    |1 |   78222|16/05/14 |   66776724768|Fernando Paulo de Sa| 8242411000103|Lavaredo Servicos e |        433,47
+   510001|1    |1 |   78223|16/05/14 |   26194775734|Celso Klejnberg     | 6877442000288|Master              |      3.064,78
+   510001|1    |1 |   78224|16/05/14 |   26194775734|Celso Klejnberg     | 6877442000288|Master              |        619,30
+   510001|1    |1 |   78225|16/05/14 |   26194775734|Celso Klejnberg     | 6877442000288|Master              |        280,21
+   510001|1    |1 |   78226|16/05/14 |   26194775734|Celso Klejnberg     | 6877442000288|Master              |        498,62
+        0|1    |1 |   78227|16/05/14 |   88776042715|Ariel Cohen         |89962294000146|Florense            |          1,00
+        0|1    |1 |   78228|16/05/14 | 8242411000103|Lavaredo Servicos e |89962294000146|Florense            |          1,00
+   510001|1    |1 |   78229|16/05/14 |   98503960753|Bernardo Gurgel     | 6877442000288|Master              |          9,52
+        0|1    |1 |   78230|16/05/14 |    8162820728|Paulo Alexandre Borg|89962294000146|Florense            |          1,00
+   510005|1    |1 |   78231|16/05/14 |    2526999715|Leon  Schiper       | 8242411000103|Lavaredo Servicos e |         15,51
+   510001|1    |1 |   78232|16/05/14 |    4535377740|Luis Andre Blanco   | 6877442000288|Master              |          8,32
+   510001|1    |1 |   78233|16/05/14 |    9640947709|Jacqueline Bittencou| 6877442000288|Master              |         28,99
+   510005|1    |1 |   78234|16/05/14 |   49071939634|Aida de Oliveira Pen| 8242411000103|Lavaredo Servicos e |          9,40
+        0|1    |1 |   78235|16/05/14 |    9217051748|Carla Coelho Lantima|89962294000146|Florense            |          1,00
+        0|1    |1 |   78236|16/05/14 |   81113196734|Monica              |89962294000146|Florense            |          1,00
+        0|1    |1 |   78237|16/05/14 |   51063158753|Marilia Rosa Tandeta|89962294000146|Florense            |          1,00
+   510005|1    |1 |   78238|16/05/14 |    9126990784|Joao Almendra       | 8242411000103|Lavaredo Servicos e |          8,62
+        0|1    |1 |   78239|16/05/14 |   29839068768|Cicero Abreu        |89962294000146|Florense            |          1,00
+        0|1    |1 |   78240|16/05/14 |    2180753756|Luciana dos Santos U|89962294000146|Florense            |          1,00
+   510005|1    |1 |   78241|16/05/14 |    7603041732|Daniela Alves P. Duq| 8242411000103|Lavaredo Servicos e |         10,52
+   510001|1    |1 |   78242|16/05/14 |   84653469768|M. Clara Albuquerque| 6877442000288|Master              |          9,33
+   510005|1    |1 |   78243|16/05/14 |    7113828833|Patricia Nora Mitche| 8242411000103|Lavaredo Servicos e |         39,16
+   510001|1    |1 |   78244|16/05/14 |    7744060709|Flavia Tavares Teixe| 6877442000288|Master              |         19,29
+   510001|1    |1 |   78245|16/05/14 |    2228947768|Joao Felippe Sampaio| 6877442000288|Master              |         19,78
+   510047|1    |1 |   78246|16/05/14 |   41116186691|Luciano Batista     |32109399000130|Kolloda Repres e Ser|         90,39
+   510047|1    |1 |   78247|16/05/14 |     259373400|Evandro Emilio Souza|32109399000130|Kolloda Repres e Ser|         66,69
+   510047|1    |1 |   78248|16/05/14 |   89522460710|Ana Cristina de Assi|32109399000130|Kolloda Repres e Ser|         31,30
+   510001|1    |1 |   78249|16/05/14 |     930467744|Claudio Carneiro Ant| 6877442000288|Master              |         20,26
+   510001|1    |1 |   78250|16/05/14 |   76752313768|Julia Paiva         | 6877442000288|Master              |        158,79
+   510001|1    |1 |   78251|16/05/14 |    5980245731|Anne                | 6877442000288|Master              |         20,54
+   510047|1    |1 |   78252|16/05/14 |   97411680710|Fatima Sucupira     |32109399000130|Kolloda Repres e Ser|        214,52
+   510047|1    |1 |   78253|16/05/14 |    1427523711|Ana Paula A. Val de |32109399000130|Kolloda Repres e Ser|         14,11
+   510001|1    |1 |   78254|16/05/14 |   79369340149|Maisa Alves Costa Re| 6877442000288|Master              |         51,36
+   510001|1    |1 |   78255|16/05/14 |   90395913500|Marcela da C. R. C. | 6877442000288|Master              |        191,64
+   510001|1    |1 |   78256|16/05/14 |   54542600700|Marcelo Marrocos de | 6877442000288|Master              |         14,40
+   510001|1    |1 |   78257|16/05/14 |18402543000109|Retorno Emp. Imob e | 6877442000288|Master              |         22,54
+   510005|1    |1 |   78258|16/05/14 |   88820440768|Marcel              | 8242411000103|Lavaredo Servicos e |        241,84
+   510005|1    |1 |   78259|16/05/14 |   69387087620|Carlos Jorge de Andr| 8242411000103|Lavaredo Servicos e |         38,50
+   510001|1    |1 |   78260|16/05/14 |    7472448710|Alexandre Marchetti | 6877442000288|Master              |         23,20
+        0|1    |1 |   78261|16/05/14 |   11823202870|Jose Alexandre Perei|89962294000146|Florense            |          1,00
+   510047|1    |1 |   78263|16/05/14 |   99252228772|Max Walter Taques de|32109399000130|Kolloda Repres e Ser|        241,85
+   510005|1    |1 |   78264|16/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        104,44
+   510005|1    |1 |   78266|16/05/14 |    2526999715|Leon  Schiper       | 8242411000103|Lavaredo Servicos e |         37,83
+   510005|1    |1 |   78268|16/05/14 |   75333520763|Heleny Barbosa da Si| 8242411000103|Lavaredo Servicos e |        112,20
+   510001|1    |1 |   78269|16/05/14 |   22061428720|Monica Labarthe     | 6877442000288|Master              |         47,09
+   509998|1    |1 |   78270|16/05/14 |     227610717|Elisabete Martins Bo| 3835676000193|M D B L Serv.e Repre|         36,52
+   510005|1    |1 |   78271|16/05/14 |    2348358778|Ana Paula Pinto Huls| 8242411000103|Lavaredo Servicos e |        347,39
+   510005|1    |1 |   78272|16/05/14 |    2348358778|Ana Paula Pinto Huls| 8242411000103|Lavaredo Servicos e |         52,04
+   510005|1    |1 |   78274|16/05/14 |   92878822749|Juan Carlos Daniel S| 8242411000103|Lavaredo Servicos e |         13,38
+   510001|1    |1 |   78275|16/05/14 |   23546988876|Thierry  Albert     | 6877442000288|Master              |         84,52
+   510005|1    |1 |   78276|16/05/14 |    3764468700|Carla Martins de Gro| 8242411000103|Lavaredo Servicos e |         75,69
+   510047|1    |1 |   78277|16/05/14 |    4055837704|Tilda Packness Valle|32109399000130|Kolloda Repres e Ser|      1.239,29
+   510047|1    |1 |   78290|16/05/14 |    4055837704|Tilda Packness Valle|32109399000130|Kolloda Repres e Ser|      1.500,98
+   510001|1    |1 |   78291|16/05/14 |   71942432704|Marcelo Azevedo     | 6877442000288|Master              |        468,05
+   510005|1    |1 |   78292|16/05/14 |   38367947720|Yvonne Vera Kossmann| 8242411000103|Lavaredo Servicos e |        143,60
+   510005|1    |1 |   78293|16/05/14 |    8819569701|Marcos Andre        | 8242411000103|Lavaredo Servicos e |         20,67
+   510001|1    |1 |   78294|16/05/14 |   62873393734|Fatima Villela Vahia| 6877442000288|Master              |         74,72
+   510005|1    |1 |   78295|16/05/14 |    5143954789|Ana Gabriela Barbosa| 8242411000103|Lavaredo Servicos e |         14,48
+   510005|1    |1 |   78296|16/05/14 |    1150456787|Anibal M dos Santos | 8242411000103|Lavaredo Servicos e |         33,90
+   510005|1    |1 |   78297|16/05/14 |    8713067788|Luiza Viveiros      | 8242411000103|Lavaredo Servicos e |         55,59
+   510005|1    |1 |   78299|16/05/14 |    6947725771|Mariane Rocha Pinto | 8242411000103|Lavaredo Servicos e |        433,00
+   510001|1    |1 |   78301|16/05/14 |   76752313768|Julia Paiva         | 6877442000288|Master              |        952,21
+   510001|1    |1 |   78303|16/05/14 |   76752313768|Julia Paiva         | 6877442000288|Master              |        628,55
+   510001|1    |1 |   78305|16/05/14 |   76752313768|Julia Paiva         | 6877442000288|Master              |        781,29
+   510005|1    |1 |   78307|16/05/14 |   61077690720|Claudia Menescal Gui| 8242411000103|Lavaredo Servicos e |        915,55
+   510001|1    |1 |   78310|16/05/14 |    1791749755|Victor Henrique Poza| 6877442000288|Master              |        102,29
+   510047|1    |1 |   78312|16/05/14 |   88433498720|Maria Aparecida D. A|32109399000130|Kolloda Repres e Ser|        129,09
+   510005|1    |1 |   78314|16/05/14 |    3742659766|Alexandre Silva Mace| 8242411000103|Lavaredo Servicos e |      1.517,92
+   510001|1    |1 |   78315|16/05/14 |   66596505715|Katia Maria Amaral J| 6877442000288|Master              |        973,43
+   510001|1    |1 |   78317|16/05/14 |   66596505715|Katia Maria Amaral J| 6877442000288|Master              |        660,76
+   510001|1    |1 |   78319|16/05/14 |   66596505715|Katia Maria Amaral J| 6877442000288|Master              |        470,47
+   510005|1    |1 |   78320|16/05/14 |   12483415709|Camila Cristina da S| 8242411000103|Lavaredo Servicos e |      1.775,57
+   510023|1    |1 |   78525|16/05/14 |   59223324734|Carlos Otavio Correa| 7924326000154|Dalman              |        858,14
+   510023|1    |1 |   78526|16/05/14 |    2033651789|Michele Alves Baroso| 7924326000154|Dalman              |        540,71
+   510023|1    |1 |   78527|16/05/14 |   60196165849|Jose Maria de Araujo| 7924326000154|Dalman              |        235,61
+   510172|1    |1 |   78636|16/05/14 |28329472000101|Mini Mercado C. Soar|89962294000146|Florense            |         31,12
+   510000|1    |1 |   78640|16/05/14 |     758193769|Rodrigo Rodriguez de| 5542012000161|La-gatta Representac|        504,91
+   510172|1    |1 |   78655|16/05/14 | 6134547000166|Ziper-zag Conf. Com.|89962294000146|Florense            |        245,89
+   510000|1    |1 |   78656|16/05/14 |   75442884715|Ednilson dos Reis Fe| 5542012000161|La-gatta Representac|         70,46
+   510000|1    |1 |   78657|16/05/14 | 5542012000161|La-gatta Representac| 5542012000161|La-gatta Representac|          8,90
+        0|1    |1 |   78658|16/05/14 | 9443379000189|Residencial Bela Vis|89962294000146|Florense            |          1,00
+        0|1    |1 |   78659|16/05/14 | 9414307000103|Ads                 |89962294000146|Florense            |          1,00
+   510023|1    |1 |   78727|17/05/14 |   49708694649|Denise Andrade      | 7924326000154|Dalman              |        161,04
+   510014|1    |1 |   78734|17/05/14 |   26866096804|Erica Salguero      |65783672000166|Feriotti Repres Serv|      1.189,86
+   510014|1    |1 |   78735|17/05/14 |   35642395882|Leandro Freitas Bran|65783672000166|Feriotti Repres Serv|        652,80
+   510014|1    |1 |   78736|17/05/14 |   35642395882|Leandro Freitas Bran|65783672000166|Feriotti Repres Serv|      1.158,58
+   509997|1    |1 |   78737|17/05/14 |   24653768889|Silvio Luis Vernieri| 3070065000100|Maxi Alpha Serv.e Re|          6,05
+        0|1    |1 |   78738|17/05/14 |10634021000112|Aricanduva Com.     |89962294000146|Florense            |          1,00
+   509997|1    |1 |   78739|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        636,62
+   509997|1    |1 |   78740|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        542,78
+   509997|1    |1 |   78741|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|      1.046,63
+   509997|1    |1 |   78742|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        327,54
+   509997|1    |1 |   78743|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        227,12
+   509997|1    |1 |   78744|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        285,12
+   509997|1    |1 |   78745|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        264,10
+   509997|1    |1 |   78746|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        185,53
+   509997|1    |1 |   78747|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        204,38
+   509997|1    |1 |   78748|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        545,91
+   509997|1    |1 |   78749|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        196,42
+   509997|1    |1 |   78750|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|        108,49
+   509997|1    |1 |   78751|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|         47,85
+   509997|1    |1 |   78752|17/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|         76,05
+   509997|1    |1 |   78753|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|         46,14
+   510014|1    |1 |   78754|17/05/14 |   25372479817|Ricardo Augusto     |65783672000166|Feriotti Repres Serv|         74,66
+   509997|1    |1 |   78755|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|         24,60
+   510014|1    |1 |   78756|17/05/14 |    2932108883|Joao Elcio Luongo Ju|65783672000166|Feriotti Repres Serv|         15,24
+   510014|1    |1 |   78757|17/05/14 |   75984296853|Tetsuo Kondo        |65783672000166|Feriotti Repres Serv|         11,70
+        0|1    |1 |   78758|17/05/14 | 4976442000129|Janima              |89962294000146|Florense            |          1,00
+   509997|1    |1 |   78759|17/05/14 |   24619170860|Rodrigo Martensen   | 3070065000100|Maxi Alpha Serv.e Re|          8,06
+        0|1    |1 |   78760|17/05/14 |   29413236860|Renata Tambelini Nak|89962294000146|Florense            |          1,00
+   509997|1    |1 |   78761|17/05/14 |    3360104862|Suely Regina Vieira | 3070065000100|Maxi Alpha Serv.e Re|          9,18
+   509997|1    |1 |   78762|17/05/14 |   11281763861|Anderson Akira Nonog| 3070065000100|Maxi Alpha Serv.e Re|         18,75
+   510014|1    |1 |   78763|17/05/14 |   26680028850|Luiz Carlos Zaparoll|65783672000166|Feriotti Repres Serv|          3,83
+   509997|1    |1 |   78764|17/05/14 |   31383359857|Amanda Alves da Cruz| 3070065000100|Maxi Alpha Serv.e Re|          2,88
+        0|1    |1 |   78765|17/05/14 |65783672000166|Feriotti Repres Serv|89962294000146|Florense            |          1,00
+        0|1    |1 |   78766|17/05/14 |   65298780415|Paola Klee Vasconcel|89962294000146|Florense            |          1,00
+        0|1    |1 |   78767|17/05/14 |   24619170860|Rodrigo Martensen   |89962294000146|Florense            |          1,00
+        0|1    |1 |   78768|17/05/14 |   87855739815|Josephina Luisi Clem|89962294000146|Florense            |          1,00
+   509997|1    |1 |   78769|17/05/14 |    1310698880|Fernando Pinilha Cru| 3070065000100|Maxi Alpha Serv.e Re|          4,84
+   510000|1    |1 |   78836|17/05/14 |    8313730757|Rafael Ernesto F. Ro| 5542012000161|La-gatta Representac|        984,08
+   510002|1    |1 |   78837|17/05/14 |    7065981991|Marcus Tulio Sartora| 6975016000104|Prodecor Serv.p/deco|        116,33
+   510002|1    |1 |   78838|17/05/14 |   34170944968|Demostenes Goncalves| 6975016000104|Prodecor Serv.p/deco|      1.140,81
+   510002|1    |1 |   78839|17/05/14 | 8181439000170|Mjm Empreend e Parti| 6975016000104|Prodecor Serv.p/deco|        287,08
+   510002|1    |1 |   78840|17/05/14 |   49881051053|Laura Piriz Ribeiro | 6975016000104|Prodecor Serv.p/deco|        670,68
+   510002|1    |1 |   78841|17/05/14 |    5943007970|Julian Adrian Richte| 6975016000104|Prodecor Serv.p/deco|        124,59
+   510002|1    |1 |   78842|17/05/14 |    3107976911|Luiza Paulo Knop    | 6975016000104|Prodecor Serv.p/deco|        391,81
+   510002|1    |1 |   78843|17/05/14 |   53321901900|Roland              | 6975016000104|Prodecor Serv.p/deco|        762,86
+   510002|1    |1 |   78844|17/05/14 | 6975016000104|Prodecor Serv.p/deco| 6975016000104|Prodecor Serv.p/deco|         29,72
+   510002|1    |1 |   78845|17/05/14 |    2995506991|Nice de V. Lima Stoe| 6975016000104|Prodecor Serv.p/deco|          5,30
+   510002|1    |1 |   78846|17/05/14 |   63735628915|Angela Cristina C.do| 6975016000104|Prodecor Serv.p/deco|         33,88
+   510002|1    |1 |   78847|17/05/14 |   49881051053|Laura Piriz Ribeiro | 6975016000104|Prodecor Serv.p/deco|         57,36
+   510002|1    |1 |   78848|17/05/14 | 7398938000150|Prop. Em Onibus     | 6975016000104|Prodecor Serv.p/deco|        162,76
+   510002|1    |1 |   78849|17/05/14 |   30798850078|Itamar Pedro Bevilaq| 6975016000104|Prodecor Serv.p/deco|         26,26
+   509996|1    |1 |   78851|17/05/14 |   36063932020|Paulo Airton Menezes|  289620000192|Vicenza Serv e Repre|      2.472,67
+   509996|1    |1 |   78852|17/05/14 |    1885251904|Vilson Heil         |  289620000192|Vicenza Serv e Repre|         12,62
+   510741|1    |1 |   78874|19/05/14 |   15823394810|Claudia Biancardi Ra| 3070065000100|Maxi Alpha Serv.e Re|        833,92
+   510763|1    |1 |   78875|19/05/14 |   46455841891|Rafat Ahmad H. Ali A|65783672000166|Feriotti Repres Serv|        706,56
+   510763|1    |1 |   78876|19/05/14 |   46455841891|Rafat Ahmad H. Ali A|65783672000166|Feriotti Repres Serv|        649,55
+   510741|1    |1 |   78877|19/05/14 |   32494889847|Amanda Loucatelli   | 3070065000100|Maxi Alpha Serv.e Re|        741,01
+   510741|1    |1 |   78878|19/05/14 |   32494889847|Amanda Loucatelli   | 3070065000100|Maxi Alpha Serv.e Re|        523,63
+   510741|1    |1 |   78879|19/05/14 |   32494889847|Amanda Loucatelli   | 3070065000100|Maxi Alpha Serv.e Re|        226,40
+   510741|1    |1 |   78880|19/05/14 |   32494889847|Amanda Loucatelli   | 3070065000100|Maxi Alpha Serv.e Re|        149,50
+   510741|1    |1 |   78881|19/05/14 |   32494889847|Amanda Loucatelli   | 3070065000100|Maxi Alpha Serv.e Re|         70,83
+   510741|1    |1 |   78882|19/05/14 |   23115958811|Thassanee Wanderley | 3070065000100|Maxi Alpha Serv.e Re|        168,63
+   510763|1    |1 |   78883|19/05/14 |65783672000166|Feriotti Repres Serv|65783672000166|Feriotti Repres Serv|        116,00
+   510763|1    |1 |   78884|19/05/14 |   42951933800|Jose Severino Gomes |65783672000166|Feriotti Repres Serv|         28,74
+   510411|1    |1 |   78964|20/05/14 |    4380033732|Alexandre Puppim    | 7924326000154|Dalman              |         29,87
+   510741|1    |1 |   78996|20/05/14 |   10697343812|Marta Ferreira de Ol| 3070065000100|Maxi Alpha Serv.e Re|        969,27
+   510741|1    |1 |   78997|20/05/14 |   10697343812|Marta Ferreira de Ol| 3070065000100|Maxi Alpha Serv.e Re|        968,94
+   510763|1    |1 |   78998|20/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|      1.145,60
+   510763|1    |1 |   78999|20/05/14 |   16861422851|Akiko C.m.ribeiro   |65783672000166|Feriotti Repres Serv|        551,17
+   510741|1    |1 |   79000|20/05/14 |    3360104862|Suely Regina Vieira | 3070065000100|Maxi Alpha Serv.e Re|         13,27
+   510763|1    |1 |   79001|20/05/14 |   25939125883|Adriano Riguette    |65783672000166|Feriotti Repres Serv|         35,19
+   510763|1    |1 |   79002|20/05/14 |    6670212801|Angela Morrone Perez|65783672000166|Feriotti Repres Serv|         20,23
+   510744|1    |1 |   79059|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        805,15
+   510744|1    |1 |   79060|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        247,29
+   510744|1    |1 |   79061|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        424,62
+   510744|1    |1 |   79062|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        281,12
+   510744|1    |1 |   79063|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        289,55
+   510744|1    |1 |   79064|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        338,08
+   510744|1    |1 |   79065|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        247,57
+   510744|1    |1 |   79066|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        218,24
+   510744|1    |1 |   79067|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        208,32
+   510744|1    |1 |   79068|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|         69,29
+   510744|1    |1 |   79069|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|         21,20
+   510744|1    |1 |   79070|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        139,29
+   510744|1    |1 |   79071|20/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|         24,81
+   510751|1    |1 |   79088|20/05/14 |   13556673215|Monika Antony Cruz E| 8242411000103|Lavaredo Servicos e |        338,19
+   510751|1    |1 |   79089|20/05/14 |   99137224700|Tuffy Habib         | 8242411000103|Lavaredo Servicos e |        480,32
+   510429|1    |1 |   79090|20/05/14 |    5159349766|Marcio Fontes Dornel|32109399000130|Kolloda Repres e Ser|      2.188,95
+   510751|1    |1 |   79091|20/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |         32,34
+   510746|1    |1 |   79092|20/05/14 |   10714475726|Domenica Eisenstein | 6877442000288|Master              |      1.620,22
+   510746|1    |1 |   79093|20/05/14 |   10714475726|Domenica Eisenstein | 6877442000288|Master              |      1.915,34
+   510746|1    |1 |   79094|20/05/14 |   43282776772|Miriam Auxiliadora R| 6877442000288|Master              |      1.526,49
+   510746|1    |1 |   79095|20/05/14 |   43282776772|Miriam Auxiliadora R| 6877442000288|Master              |        974,65
+   510746|1    |1 |   79096|20/05/14 |   43282776772|Miriam Auxiliadora R| 6877442000288|Master              |        767,73
+   510746|1    |1 |   79097|20/05/14 |   43282776772|Miriam Auxiliadora R| 6877442000288|Master              |      1.090,65
+   510429|1    |1 |   79098|20/05/14 |    5383794808|Reginaldo Teiji Gamb|32109399000130|Kolloda Repres e Ser|      3.227,35
+   510751|1    |1 |   79099|20/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |        401,74
+   510751|1    |1 |   79100|20/05/14 |   31874355134|Danielle Almeida Bas| 8242411000103|Lavaredo Servicos e |        875,01
+   510751|1    |1 |   79101|20/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        245,56
+   510751|1    |1 |   79102|20/05/14 |   11378441672|Alberto de Almeida L| 8242411000103|Lavaredo Servicos e |        152,29
+   510751|1    |1 |   79103|20/05/14 |   83100377753|Maria Aparecida Dini| 8242411000103|Lavaredo Servicos e |        979,31
+   510751|1    |1 |   79104|20/05/14 |   83100377753|Maria Aparecida Dini| 8242411000103|Lavaredo Servicos e |      1.285,66
+   510746|1    |1 |   79105|20/05/14 |   36082430891|Almir Gomes de Souza| 6877442000288|Master              |        858,75
+   510746|1    |1 |   79106|20/05/14 |   36082430891|Almir Gomes de Souza| 6877442000288|Master              |      1.440,99
+   510746|1    |1 |   79107|20/05/14 |   36082430891|Almir Gomes de Souza| 6877442000288|Master              |        486,15
+   510751|1    |1 |   79108|20/05/14 |   70446105015|Suzana Strauch      | 8242411000103|Lavaredo Servicos e |        857,67
+   510751|1    |1 |   79109|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        746,89
+   510751|1    |1 |   79110|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        104,51
+   510751|1    |1 |   79111|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        107,06
+   510751|1    |1 |   79112|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        207,38
+   510751|1    |1 |   79113|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        463,81
+   510751|1    |1 |   79114|20/05/14 |   37166026715|Luiz Antonio Soares | 8242411000103|Lavaredo Servicos e |        767,90
+   510751|1    |1 |   79115|20/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |      1.108,66
+   510751|1    |1 |   79116|20/05/14 |    1364964740|Cleo Ferreira       | 8242411000103|Lavaredo Servicos e |         31,47
+   510751|1    |1 |   79117|20/05/14 |    5154534719|Eric dos Reis Costa | 8242411000103|Lavaredo Servicos e |         14,97
+   510751|1    |1 |   79118|20/05/14 |    4764871700|Tania Apparecida Sea| 8242411000103|Lavaredo Servicos e |         60,26
+   510751|1    |1 |   79119|20/05/14 |    5185974745|Patricia Beloch     | 8242411000103|Lavaredo Servicos e |         16,88
+   510429|1    |1 |   79121|20/05/14 |    1407484745|Andre Luiz D. Carrar|32109399000130|Kolloda Repres e Ser|         92,84
+   510746|1    |1 |   79123|20/05/14 |    8555625793|Roberta Nabuco      | 6877442000288|Master              |         51,48
+   510746|1    |1 |   79125|20/05/14 |    2890201740|Kaline Veras F. da S| 6877442000288|Master              |         13,75
+   510746|1    |1 |   79127|20/05/14 |    4733487720|Carmelia Maria Mendo| 6877442000288|Master              |         19,53
+   510751|1    |1 |   79129|20/05/14 |   86992554700|Roberto Fernandes Da| 8242411000103|Lavaredo Servicos e |         33,39
+        0|1    |1 |   79131|20/05/14 |   65652940034|Catia Maria Bertoti |89962294000146|Florense            |          1,00
+        0|1    |1 |   79132|20/05/14 | 8242411000103|Lavaredo Servicos e |89962294000146|Florense            |          1,00
+   510751|1    |1 |   79134|20/05/14 |    3354198796|Fabiana Dalmaso     | 8242411000103|Lavaredo Servicos e |         45,35
+   510746|1    |1 |   79136|20/05/14 | 5367154000130|Unica Repres        | 6877442000288|Master              |      1.045,83
+   510751|1    |1 |   79506|22/05/14 |    1221458795|William Georges K So| 8242411000103|Lavaredo Servicos e |      1.515,18
+   510746|1    |1 |   79507|22/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |        923,01
+   510657|1    |1 |   79508|22/05/14 |    1888359706|Pablo Caldeira Teixe|32109399000130|Kolloda Repres e Ser|        291,23
+   510746|1    |1 |   79509|22/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |        136,85
+   510751|1    |1 |   79510|22/05/14 |   95260609700|Carlos              | 8242411000103|Lavaredo Servicos e |        205,31
+   510657|1    |1 |   79511|22/05/14 |    5450285744|Gustavo Fuscaldo Cou|32109399000130|Kolloda Repres e Ser|         18,24
+   510751|1    |1 |   79512|22/05/14 |   95260609700|Carlos              | 8242411000103|Lavaredo Servicos e |         37,27
+   510746|1    |1 |   79513|22/05/14 |   69184160730|Maria Lucia Gomes Pe| 6877442000288|Master              |         27,02
+        0|1    |1 |   79610|22/05/14 |    3089628775|Gutemberg Merlos    |89962294000146|Florense            |          1,00
+        0|1    |1 |   79611|22/05/14 |   97910198787|Alexandre da Silva R|89962294000146|Florense            |          1,00
+   510746|1    |1 |   79682|23/05/14 |   99606305791|Juliana Kircher     | 6877442000288|Master              |         19,70
+   510751|1    |1 |   79683|23/05/14 |    4163085700|Alice Salvador      | 8242411000103|Lavaredo Servicos e |          8,50
+   510746|1    |1 |   79684|23/05/14 |     358552664|Lilian Nogueira Cost| 6877442000288|Master              |         14,57
+        0|1    |1 |   79686|23/05/14 | 8242411000103|Lavaredo Servicos e |89962294000146|Florense            |          1,00
+   510751|1    |1 |   79687|23/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        150,16
+   510751|1    |1 |   79688|23/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        397,31
+   510751|1    |1 |   79689|23/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        675,23
+   510751|1    |1 |   79690|23/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |        560,70
+   510751|1    |1 |   79692|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |        154,55
+   510742|1    |1 |   79693|23/05/14 |    7067420792|Adriano Moutinho    | 3835676000193|M D B L Serv.e Repre|         34,36
+   510751|1    |1 |   79694|23/05/14 |   32546289772|Ciro de Freitas Eloy| 8242411000103|Lavaredo Servicos e |      1.436,19
+   510751|1    |1 |   79695|23/05/14 |   50834282704|Mariangela Silva de | 8242411000103|Lavaredo Servicos e |         12,88
+   510751|1    |1 |   79696|23/05/14 |   10633810703|Victor Rios         | 8242411000103|Lavaredo Servicos e |         13,51
+   510899|1    |1 |   79698|23/05/14 |33469164000111|Servico Social      |89962294000146|Florense            |        314,04
+        0|1    |1 |   79699|23/05/14 |   10496880748|Guilherme           |89962294000146|Florense            |          1,00
+        0|1    |1 |   79700|23/05/14 |   71115986791|Ana Paula Farah Nade|89962294000146|Florense            |          1,00
+   510751|1    |1 |   79701|23/05/14 |     618815708|Joao Felipe Couto de| 8242411000103|Lavaredo Servicos e |         18,12
+   510786|1    |1 |   79702|23/05/14 |    3985385734|Alfredo Bezerra Cama|32109399000130|Kolloda Repres e Ser|         70,70
+   510746|1    |1 |   79703|23/05/14 |   95897186715|Jane de Araujo Barre| 6877442000288|Master              |          8,85
+   510746|1    |1 |   79704|23/05/14 |   14623129187|Maria Regina de Arau| 6877442000288|Master              |         12,94
+   510786|1    |1 |   79705|23/05/14 |   60382767772|Afonso Trupe        |32109399000130|Kolloda Repres e Ser|          9,16
+   510751|1    |1 |   79706|23/05/14 |    3399004745|Carlos Badini Villar| 8242411000103|Lavaredo Servicos e |         62,27
+   510751|1    |1 |   79707|23/05/14 |    3399004745|Carlos Badini Villar| 8242411000103|Lavaredo Servicos e |         53,07
+   510751|1    |1 |   79709|23/05/14 |    8228317751|Gustavo Augusto P. d| 8242411000103|Lavaredo Servicos e |          7,72
+   510742|1    |1 |   79710|23/05/14 |   19207549700|Mauricio Cleiman    | 3835676000193|M D B L Serv.e Repre|         47,65
+        0|1    |1 |   79711|23/05/14 |30846604000114|Homo Empreend de Eng|89962294000146|Florense            |          1,00
+   510746|1    |1 |   79712|23/05/14 |    1674361718|Fabiana de Azevedo Y| 6877442000288|Master              |         22,65
+   510742|1    |1 |   79713|23/05/14 |35948181000167|Binzel do Brasil Ind| 3835676000193|M D B L Serv.e Repre|        250,79
+   510746|1    |1 |   79714|23/05/14 |     341544779|Daniela Cafe        | 6877442000288|Master              |        439,29
+   510751|1    |1 |   79715|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |        394,02
+   510751|1    |1 |   79720|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |         67,44
+   510751|1    |1 |   79721|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |        343,66
+   510751|1    |1 |   79722|23/05/14 |   16022645700|Eunice Mendes de Far| 8242411000103|Lavaredo Servicos e |         56,43
+        0|1    |1 |   79723|23/05/14 |    7591397761|Leonardo  Lopes Cort|89962294000146|Florense            |          1,00
+        0|1    |1 |   79724|23/05/14 |   30778659801|Gabriel Piton Tessar|89962294000146|Florense            |          1,00
+   510786|1    |1 |   79725|23/05/14 |12261679000151|Inovare Rep. e Serv.|32109399000130|Kolloda Repres e Ser|         17,89
+   510742|1    |1 |   79727|23/05/14 |     363063714|Leandra  Rodrigues S| 3835676000193|M D B L Serv.e Repre|         14,95
+   510746|1    |1 |   79729|23/05/14 |    4934989153|Francisco Martins Be| 6877442000288|Master              |          8,49
+        0|1    |1 |   79731|23/05/14 |12261679000151|Inovare Rep. e Serv.|89962294000146|Florense            |          1,00
+        0|1    |1 |   79732|23/05/14 |   53810147753|Jose Augusto        |32109399000130|Kolloda Repres e Ser|          7,69
+   510746|1    |1 |   79733|23/05/14 |    5389202708|Rodrigo Correa      | 6877442000288|Master              |         11,97
+        0|1    |1 |   79735|23/05/14 |    5348991708|Vanessa dos Santos  |89962294000146|Florense            |          1,00
+        0|1    |1 |   79736|23/05/14 |    1451357729|Alexandre O. Camacho|89962294000146|Florense            |          1,00
+   510746|1    |1 |   79737|23/05/14 |    4816287701|Daniel Bonvini Menes| 6877442000288|Master              |      2.892,66
+   510786|1    |1 |   79738|23/05/14 |   75535661791|Jorge Luiz Guerra Vi|32109399000130|Kolloda Repres e Ser|         52,97
+   510751|1    |1 |   79739|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |         60,16
+   510751|1    |1 |   79740|23/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |        746,25
+   510751|1    |1 |   79741|23/05/14 |   84203714753|Maria Luisa de Barro| 8242411000103|Lavaredo Servicos e |         19,71
+   510751|1    |1 |   79757|23/05/14 |   84203714753|Maria Luisa de Barro| 8242411000103|Lavaredo Servicos e |         29,78
+   510746|1    |1 |   79758|23/05/14 |    8555625793|Roberta Nabuco      | 6877442000288|Master              |         50,76
+   510746|1    |1 |   79759|23/05/14 |    8555625793|Roberta Nabuco      | 6877442000288|Master              |         81,94
+   510746|1    |1 |   79760|23/05/14 |   77726120525|Catharina Maria C. D| 6877442000288|Master              |         12,92
+   510742|1    |1 |   79761|23/05/14 |    2487674709|Joaquim Eugenio Goul| 3835676000193|M D B L Serv.e Repre|         68,74
+   510746|1    |1 |   79762|23/05/14 |   84497998720|Wilma Maria J. Vasco| 6877442000288|Master              |         15,99
+   510751|1    |1 |   79763|23/05/14 |    4462840763|Durvalino de Souza F| 8242411000103|Lavaredo Servicos e |      2.315,42
+   510751|1    |1 |   79764|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        461,75
+   510751|1    |1 |   79768|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        454,68
+   510751|1    |1 |   79769|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        334,84
+   510751|1    |1 |   79770|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        132,34
+   510751|1    |1 |   79771|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        448,03
+   510751|1    |1 |   79772|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        416,57
+   510751|1    |1 |   79773|23/05/14 |30875884000199|Ms Logistica        | 8242411000103|Lavaredo Servicos e |        381,43
+   510746|1    |1 |   79774|23/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |        737,31
+   510746|1    |1 |   79775|23/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |        153,99
+   510746|1    |1 |   79776|23/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |         52,50
+   510751|1    |1 |   79777|23/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        275,13
+        0|1    |1 |   79778|23/05/14 |   10322191734|Bruno Renato Lima   |89962294000146|Florense            |          1,00
+   510751|1    |1 |   79779|23/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        700,20
+   510751|1    |1 |   79780|23/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        101,47
+   510751|1    |1 |   79781|23/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        143,54
+   510751|1    |1 |   79782|23/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |         97,68
+   510746|1    |1 |   79783|23/05/14 |   10793644712|Paula Renaux W. C. M| 6877442000288|Master              |        541,90
+   510746|1    |1 |   79784|23/05/14 |   10793644712|Paula Renaux W. C. M| 6877442000288|Master              |        824,14
+   510746|1    |1 |   79785|23/05/14 |   11616776153|Monica Rocha de Cast| 6877442000288|Master              |        109,21
+   510746|1    |1 |   79786|23/05/14 |    6956223740|Alexandre Cassar Mag| 6877442000288|Master              |         19,09
+   510746|1    |1 |   79787|23/05/14 |    1179875737|Fernando Lopes Hargr| 6877442000288|Master              |         63,43
+   510746|1    |1 |   79788|23/05/14 |     341544779|Daniela Cafe        | 6877442000288|Master              |        109,63
+   510742|1    |1 |   79789|23/05/14 |   59638125772|Eduardo H. Coelho Ta| 3835676000193|M D B L Serv.e Repre|         26,52
+   510742|1    |1 |   79790|23/05/14 |    2487674709|Joaquim Eugenio Goul| 3835676000193|M D B L Serv.e Repre|         12,22
+        0|1    |1 |   79791|23/05/14 |    5587173739|Fernanda Maria de O.|89962294000146|Florense            |          1,00
+   510751|1    |1 |   79792|23/05/14 |     618815708|Joao Felipe Couto de| 8242411000103|Lavaredo Servicos e |         18,78
+   510786|1    |1 |   79793|23/05/14 |   96402652768|Ricardo Mauricio Dut|32109399000130|Kolloda Repres e Ser|         14,15
+   510786|1    |1 |   79794|23/05/14 |    7804256779|Cristiane P. de Frei|32109399000130|Kolloda Repres e Ser|         15,36
+   510746|1    |1 |   79795|23/05/14 |    8854702730|Felipe Moreira Viana| 6877442000288|Master              |         16,08
+   510746|1    |1 |   79796|23/05/14 |   95897186715|Jane de Araujo Barre| 6877442000288|Master              |        127,00
+   510746|1    |1 |   79797|23/05/14 | 5367154000130|Unica Repres        | 6877442000288|Master              |        746,48
+   510751|1    |1 |   79798|23/05/14 |   45076863691|Alexandre Stigert   | 8242411000103|Lavaredo Servicos e |         22,15
+   510751|1    |1 |   79799|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |      1.463,41
+   510751|1    |1 |   79809|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        767,52
+   510751|1    |1 |   79811|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |      1.292,48
+   510751|1    |1 |   79812|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        347,07
+   510786|1    |1 |   79814|23/05/14 |    1888359706|Pablo Caldeira Teixe|32109399000130|Kolloda Repres e Ser|        115,37
+   510751|1    |1 |   79816|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |        187,34
+   510751|1    |1 |   79818|23/05/14 |   22025448791|Carlos Alberto de Ca| 8242411000103|Lavaredo Servicos e |         76,55
+   510766|1    |1 |   79837|23/05/14 |    3204326616|Jose Braz Neto      | 7924326000154|Dalman              |        519,45
+   510741|1    |1 |   79893|23/05/14 |   31429069830|Felipe Brandao Cardo| 3070065000100|Maxi Alpha Serv.e Re|        591,87
+   510741|1    |1 |   79894|23/05/14 |   31429069830|Felipe Brandao Cardo| 3070065000100|Maxi Alpha Serv.e Re|         93,14
+   510741|1    |1 |   79895|23/05/14 |   31429069830|Felipe Brandao Cardo| 3070065000100|Maxi Alpha Serv.e Re|         79,14
+   510741|1    |1 |   79896|23/05/14 |   31429069830|Felipe Brandao Cardo| 3070065000100|Maxi Alpha Serv.e Re|         27,54
+   510741|1    |1 |   79897|23/05/14 |   31429069830|Felipe Brandao Cardo| 3070065000100|Maxi Alpha Serv.e Re|         41,39
+   510741|1    |1 |   79898|23/05/14 |   22072671809|Francisco Assis S.am| 3070065000100|Maxi Alpha Serv.e Re|        753,98
+   510763|1    |1 |   79899|23/05/14 |   51896249868|Waldir Antonio Marti|65783672000166|Feriotti Repres Serv|         20,11
+   510741|1    |1 |   79900|23/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|         32,23
+   510741|1    |1 |   79901|23/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|          8,56
+        0|1    |1 |   79902|23/05/14 |   80923771468|Michele             |89962294000146|Florense            |          1,00
+        0|1    |1 |   79903|23/05/14 |   32537736800|Patricia Pece       |89962294000146|Florense            |          1,00
+   510763|1    |1 |   79904|23/05/14 |   29167877800|Mariana Cirineu     |65783672000166|Feriotti Repres Serv|         17,27
+        0|1    |1 |   79905|23/05/14 |   21688839801|Renato Kogima France|89962294000146|Florense            |          1,00
+   510741|1    |1 |   79906|23/05/14 |   32841277801|Maria Fernanda M.l.s| 3070065000100|Maxi Alpha Serv.e Re|        616,85
+   510741|1    |1 |   79907|23/05/14 |   18797471895|Nanina Cristiane de | 3070065000100|Maxi Alpha Serv.e Re|        610,76
+   510741|1    |1 |   79908|23/05/14 |   18797471895|Nanina Cristiane de | 3070065000100|Maxi Alpha Serv.e Re|        370,04
+   510741|1    |1 |   79909|23/05/14 |   18797471895|Nanina Cristiane de | 3070065000100|Maxi Alpha Serv.e Re|        308,11
+   510741|1    |1 |   79910|23/05/14 |   18797471895|Nanina Cristiane de | 3070065000100|Maxi Alpha Serv.e Re|        414,37
+   510763|1    |1 |   79911|23/05/14 |    6462040840|Denise Cardenuto Lou|65783672000166|Feriotti Repres Serv|        387,64
+   510763|1    |1 |   79912|23/05/14 |    6462040840|Denise Cardenuto Lou|65783672000166|Feriotti Repres Serv|        298,40
+   510763|1    |1 |   79913|23/05/14 |    6462040840|Denise Cardenuto Lou|65783672000166|Feriotti Repres Serv|         18,11
+   510741|1    |1 |   79914|23/05/14 |13534652000158|Eleve Jundiai Empree| 3070065000100|Maxi Alpha Serv.e Re|        351,43
+   510741|1    |1 |   79915|23/05/14 |   19464098805|Carlos Kapudjian Car| 3070065000100|Maxi Alpha Serv.e Re|      1.737,76
+   510751|1    |1 |   79916|23/05/14 | 9462327000150|Adar Adm.e Participa| 8242411000103|Lavaredo Servicos e |        923,07
+   510751|1    |1 |   79917|23/05/14 | 9462327000150|Adar Adm.e Participa| 8242411000103|Lavaredo Servicos e |        627,12
+   510741|1    |1 |   79918|23/05/14 |   81293534820|Jose                | 3070065000100|Maxi Alpha Serv.e Re|         36,70
+   510763|1    |1 |   79919|23/05/14 |   23150188890|Jeremy John Austin  |65783672000166|Feriotti Repres Serv|         29,04
+   510763|1    |1 |   79920|23/05/14 |   17819134801|Ademir              |65783672000166|Feriotti Repres Serv|         95,88
+   510763|1    |1 |   79921|23/05/14 |    3329648848|Fernando Fernandes C|65783672000166|Feriotti Repres Serv|         35,73
+   510763|1    |1 |   79922|23/05/14 |   17020951856|Alexandre Gargano Pi|65783672000166|Feriotti Repres Serv|         11,11
+   510763|1    |1 |   79923|23/05/14 |   75984296853|Tetsuo Kondo        |65783672000166|Feriotti Repres Serv|          9,22
+   510741|1    |1 |   79924|23/05/14 |   31082388840|Caroline Chevalier  | 3070065000100|Maxi Alpha Serv.e Re|         24,36
+   510741|1    |1 |   79925|23/05/14 |    1948997800|Luiz Fenando        | 3070065000100|Maxi Alpha Serv.e Re|         26,08
+   510741|1    |1 |   79926|23/05/14 |   32215527854|Larissa Zayat Rosa  | 3070065000100|Maxi Alpha Serv.e Re|        335,41
+   510751|1    |1 |   79927|23/05/14 | 9462327000150|Adar Adm.e Participa| 8242411000103|Lavaredo Servicos e |        147,62
+   510741|1    |1 |   79928|23/05/14 |   32215527854|Larissa Zayat Rosa  | 3070065000100|Maxi Alpha Serv.e Re|         35,59
+        0|1    |1 |   79929|23/05/14 |    3360104862|Suely Regina Vieira |89962294000146|Florense            |          1,00
+   510741|1    |1 |   79930|23/05/14 |   25866739801|Fabricio Zambotto   | 3070065000100|Maxi Alpha Serv.e Re|         48,64
+        0|1    |1 |   79931|23/05/14 |    7635470850|Fatima Fonseca      |89962294000146|Florense            |          1,00
+   510751|1    |1 |   79951|23/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        418,29
+   510751|1    |1 |   79952|23/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |         24,07
+   510744|1    |1 |   79958|23/05/14 | 5634137000111|Radiovida Diag Image| 5542012000161|La-gatta Representac|      1.534,44
+   510899|1    |1 |   79959|23/05/14 |10612121000148|Nacional 2009 Auto C|89962294000146|Florense            |        203,51
+        0|1    |1 |   79960|23/05/14 | 6783156000172|Hipotalamo Ser. Neur|89962294000146|Florense            |          1,00
+   510899|1    |1 |   79961|23/05/14 |10761987000110|J S Delgado Joias Lt|89962294000146|Florense            |        633,24
+   510744|1    |1 |   79962|23/05/14 |    7267447783|Marco Antonio Maximo| 5542012000161|La-gatta Representac|      1.098,94
+        0|1    |1 |   79963|23/05/14 | 3507010000106|Nutriport           |89962294000146|Florense            |          1,00
+        0|1    |1 |   79964|23/05/14 |  498252000192|Cirurgia Bm C Mat Md|89962294000146|Florense            |          1,00
+        0|1    |1 |   79965|23/05/14 | 4679474000162|Dvr                 |89962294000146|Florense            |          1,00
+   510744|1    |1 |   79966|23/05/14 | 5542012000161|La-gatta Representac| 5542012000161|La-gatta Representac|        679,00
+   510744|1    |1 |   79967|23/05/14 |   25126210734|Maria Adelaide      | 5542012000161|La-gatta Representac|          2,44
+        0|1    |1 |   79968|23/05/14 |    1836089767|Mirella             |89962294000146|Florense            |          1,00
+   510744|1    |1 |   79969|23/05/14 | 5746825000173|Big Gas Vr          | 5542012000161|La-gatta Representac|          4,14
+        0|1    |1 |   79970|23/05/14 | 4080797000135|Paulo Furtdo Ferreir|89962294000146|Florense            |          1,00
+        0|1    |1 |   79971|23/05/14 | 4080797000135|Paulo Furtdo Ferreir|89962294000146|Florense            |          1,00
+   510744|1    |1 |   79972|23/05/14 | 4080797000135|Paulo Furtdo Ferreir| 5542012000161|La-gatta Representac|          4,43
+        0|1    |1 |   79973|23/05/14 |   17757614791|Rubens Julio        |89962294000146|Florense            |          1,00
+   510739|1    |1 |   80116|23/05/14 |79244158000167|Procave Inv. Inc. La|  289620000192|Vicenza Serv e Repre|      2.637,08
+   510739|1    |1 |   80117|23/05/14 |   92279287072|Juliana W. Tedesco d|  289620000192|Vicenza Serv e Repre|      3.739,51
+        0|1    |1 |   80118|23/05/14 |  113489000108|Const Incorp Vilson |89962294000146|Florense            |          1,00
+   510739|1    |1 |   80119|23/05/14 |   36063932020|Paulo Airton Menezes|  289620000192|Vicenza Serv e Repre|         79,51
+        0|1    |1 |   80120|23/05/14 |   35199040987|Claudio Fischer     |89962294000146|Florense            |          1,00
+   510740|1    |1 |   80121|23/05/14 |  424011000107|Vicenza             |  424011000107|Vicenza             |        319,24
+   510740|1    |1 |   80122|23/05/14 |  424011000107|Vicenza             |  424011000107|Vicenza             |      1.143,02
+        0|1    |1 |   80123|23/05/14 |   74806300934|Adriana Virmond     |89962294000146|Florense            |          1,00
+   510739|1    |1 |   80124|23/05/14 |   70579040968|Gerson da Silva Vice|  289620000192|Vicenza Serv e Repre|          2,19
+   510739|1    |1 |   80125|23/05/14 |   52119955972|Liane Pereira de Bet|  289620000192|Vicenza Serv e Repre|         39,20
+   510747|1    |1 |   80126|23/05/14 | 8181439000170|Mjm Empreend e Parti| 6975016000104|Prodecor Serv.p/deco|      1.272,97
+   510747|1    |1 |   80127|23/05/14 |   50942522915|Paulo Roberto Costa | 6975016000104|Prodecor Serv.p/deco|        137,55
+   510747|1    |1 |   80128|23/05/14 |   49881051053|Laura Piriz Ribeiro | 6975016000104|Prodecor Serv.p/deco|        709,67
+   510747|1    |1 |   80129|23/05/14 |    4425247906|Flavia Vasques      | 6975016000104|Prodecor Serv.p/deco|         71,16
+   510747|1    |1 |   80130|23/05/14 |   95065393915|Adilson da Rosa Ribe| 6975016000104|Prodecor Serv.p/deco|          9,26
+   510747|1    |1 |   80131|23/05/14 |   30798850078|Itamar Pedro Bevilaq| 6975016000104|Prodecor Serv.p/deco|          2,55
+   510747|1    |1 |   80132|23/05/14 |11013503000118|Fet Participacoes Ad| 6975016000104|Prodecor Serv.p/deco|         35,22
+   510747|1    |1 |   80133|23/05/14 |83882936000110|Koesa Const. e Incor| 6975016000104|Prodecor Serv.p/deco|         74,55
+        0|1    |1 |   80134|23/05/14 |    4152409568|Francisco Matos Fran|89962294000146|Florense            |          1,00
+   511258|1    |1 |   80211|27/05/14 |   12507734825|Fabiana Penda Alvare| 3070065000100|Maxi Alpha Serv.e Re|      1.236,37
+   511258|1    |1 |   80212|27/05/14 |   12507734825|Fabiana Penda Alvare| 3070065000100|Maxi Alpha Serv.e Re|        259,82
+   511258|1    |1 |   80213|27/05/14 |   12507734825|Fabiana Penda Alvare| 3070065000100|Maxi Alpha Serv.e Re|        206,69
+   511258|1    |1 |   80214|27/05/14 |   12507734825|Fabiana Penda Alvare| 3070065000100|Maxi Alpha Serv.e Re|         31,45
+   511280|1    |1 |   80215|27/05/14 |    7410324813|Juarez Braz da Silva|65783672000166|Feriotti Repres Serv|      1.101,54
+   511258|1    |1 |   80216|27/05/14 | 3070065000100|Maxi Alpha Serv.e Re| 3070065000100|Maxi Alpha Serv.e Re|         17,48
+   511258|1    |1 |   80217|27/05/14 |   22150332825|Marcelo Bianchini   | 3070065000100|Maxi Alpha Serv.e Re|         15,32
+   511258|1    |1 |   80218|27/05/14 |   27172725859|Karine Goncalves Pan| 3070065000100|Maxi Alpha Serv.e Re|         12,06
+        0|1    |1 |   80219|27/05/14 |12284455000165|Mpd Investimentos Im|89962294000146|Florense            |          1,00
+   511280|1    |1 |   80220|27/05/14 |    7410324813|Juarez Braz da Silva|65783672000166|Feriotti Repres Serv|          5,24
+   511280|1    |1 |   80221|27/05/14 |   22685756833|Rodrigo Ap Sanche da|65783672000166|Feriotti Repres Serv|         21,84
+        0|1    |1 |   80266|27/05/14 |    4300950741|Alejandra Kahn      |89962294000146|Florense            |          1,00
+        0|1    |1 |   80267|27/05/14 |   96101490734|Adla Dumas Horn     |89962294000146|Florense            |          1,00
+        0|1    |1 |   80268|27/05/14 |   71392530644|Marco Aurelio Olivei|89962294000146|Florense            |          1,00
+   511269|1    |1 |   80269|27/05/14 |   66776724768|Fernando Paulo de Sa| 8242411000103|Lavaredo Servicos e |         42,40
+   511264|1    |1 |   80270|27/05/14 |   18609040763|Roberto Antonio R. D| 6877442000288|Master              |         32,82
+   511264|1    |1 |   80271|27/05/14 |    2890201740|Kaline Veras F. da S| 6877442000288|Master              |         61,20
+   511264|1    |1 |   80272|27/05/14 |   35267631787|Roselene Maria de F.| 6877442000288|Master              |         31,79
+        0|1    |1 |   80273|27/05/14 |    2525092775|Adrian              |89962294000146|Florense            |          1,00
+   511264|1    |1 |   80274|27/05/14 |   16032543749|Sergio  Bacaltchuc  | 6877442000288|Master              |         73,57
+   511264|1    |1 |   80275|27/05/14 |    5387853736|Vitor Uchoa Nunes   | 6877442000288|Master              |         11,12
+   511264|1    |1 |   80276|27/05/14 |   76415511734|Claudia M. Monteiro | 6877442000288|Master              |         44,44
+   511264|1    |1 |   80277|27/05/14 |    1091076758|Jose Antonio        | 6877442000288|Master              |        237,58
+   511264|1    |1 |   80278|27/05/14 |      96117702|Miriam Carla B. Sarq| 6877442000288|Master              |        114,65
+   511264|1    |1 |   80279|27/05/14 |    6055797763|Neils Hans Reimar Ni| 6877442000288|Master              |         67,05
+   511264|1    |1 |   80280|27/05/14 |    9970480774|Claudio Pitanga     | 6877442000288|Master              |        186,07
+   511017|1    |1 |   80281|27/05/14 |   84187336753|Geraldo da Silva Pei|32109399000130|Kolloda Repres e Ser|         42,74
+        0|1    |1 |   80282|27/05/14 |   76646700710|Amaury de Assis Paiv|89962294000146|Florense            |          1,00
+        0|1    |1 |   80283|27/05/14 |    7943841700|Viviane Pinto Rezend|89962294000146|Florense            |          1,00
+   511017|1    |1 |   80284|27/05/14 |11814566000173|Xstar Brazil Empr Im|32109399000130|Kolloda Repres e Ser|        101,84
+   511264|1    |1 |   80285|27/05/14 |   11299046797|Soraya Hesse Lopes  | 6877442000288|Master              |      1.986,92
+   511269|1    |1 |   80286|27/05/14 |   96400471715|Oswaldo Ferreira de | 8242411000103|Lavaredo Servicos e |        762,32
+   511269|1    |1 |   80287|27/05/14 |   24281506772|Sergio Place Henrioq| 8242411000103|Lavaredo Servicos e |      1.444,19
+   511269|1    |1 |   80288|27/05/14 |   24281506772|Sergio Place Henrioq| 8242411000103|Lavaredo Servicos e |        520,70
+   511269|1    |1 |   80289|27/05/14 |   24281506772|Sergio Place Henrioq| 8242411000103|Lavaredo Servicos e |        320,76
+   511017|1    |1 |   80290|27/05/14 |    7574407703|Ana Paula Ismerio Ra|32109399000130|Kolloda Repres e Ser|      1.310,55
+   511017|1    |1 |   80291|27/05/14 |    7574407703|Ana Paula Ismerio Ra|32109399000130|Kolloda Repres e Ser|        742,08
+   511264|1    |1 |   80292|27/05/14 |   11986392708|Maria Augusta Silva | 6877442000288|Master              |      1.034,77
+   511264|1    |1 |   80293|27/05/14 |   11986392708|Maria Augusta Silva | 6877442000288|Master              |        314,68
+   511264|1    |1 |   80294|27/05/14 |   11986392708|Maria Augusta Silva | 6877442000288|Master              |      1.610,29
+   511269|1    |1 |   80353|28/05/14 |   89157630763|Elaine Monken de Cas| 8242411000103|Lavaredo Servicos e |        511,36
+   511150|1    |1 |   80386|28/05/14 |   24962180797|Helio Galdino Lecche| 7924326000154|Dalman              |      1.026,45
+   511150|1    |1 |   80387|28/05/14 |  805711000133|Global Dist. e Repre| 7924326000154|Dalman              |        669,12
+   511150|1    |1 |   80388|28/05/14 |  805711000133|Global Dist. e Repre| 7924326000154|Dalman              |        322,28
+   511150|1    |1 |   80389|28/05/14 |  805711000133|Global Dist. e Repre| 7924326000154|Dalman              |      1.423,65
+        0|1    |1 |   80390|28/05/14 |   49708694649|Denise Andrade      |89962294000146|Florense            |          1,00
+   511280|1    |1 |   80519|28/05/14 |   18487779816|Mario               |65783672000166|Feriotti Repres Serv|      1.338,61
+   511280|1    |1 |   80520|28/05/14 |   17236871893|Gilberto Gomes Peixo|65783672000166|Feriotti Repres Serv|         21,37
+   511280|1    |1 |   80521|28/05/14 |    8713482840|Mario Ivan dos Santo|65783672000166|Feriotti Repres Serv|         15,76
+   511258|1    |1 |   80522|28/05/14 |   51995271853|Antonio de C.figueir| 3070065000100|Maxi Alpha Serv.e Re|         17,20
+   511264|1    |1 |   80634|30/05/14 |    2110290765|Rodrigo Sergio Lima | 6877442000288|Master              |      1.426,15
+   511264|1    |1 |   80635|30/05/14 |    8631027782|Bruno Abramoff      | 6877442000288|Master              |      1.670,40
+   511323|1    |1 |   80636|30/05/14 |    5159349766|Marcio Fontes Dornel|32109399000130|Kolloda Repres e Ser|        523,69
+   511264|1    |1 |   80637|30/05/14 |   77002989715|Marisol Ramos Perez | 6877442000288|Master              |        271,59
+   511269|1    |1 |   80638|30/05/14 |   75333520763|Heleny Barbosa da Si| 8242411000103|Lavaredo Servicos e |      2.333,31
+   511269|1    |1 |   80639|30/05/14 |   75333520763|Heleny Barbosa da Si| 8242411000103|Lavaredo Servicos e |      2.584,06
+   511269|1    |1 |   80640|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |        674,65
+   511269|1    |1 |   80641|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |        962,81
+   511269|1    |1 |   80642|30/05/14 |    5081102709|Leandro Carvalho Pei| 8242411000103|Lavaredo Servicos e |      1.196,07
+   513389|1    |1 |   80643|30/05/14 |   36469840310|Marcelo Salgado Fabr|32109399000130|Kolloda Repres e Ser|      1.634,90
+   513389|1    |1 |   80644|30/05/14 |   36469840310|Marcelo Salgado Fabr|32109399000130|Kolloda Repres e Ser|        310,76
+   513389|1    |1 |   80645|30/05/14 |   36469840310|Marcelo Salgado Fabr|32109399000130|Kolloda Repres e Ser|        756,09
+   513389|1    |1 |   80646|30/05/14 |   36469840310|Marcelo Salgado Fabr|32109399000130|Kolloda Repres e Ser|      1.363,23
+   511269|1    |1 |   80647|30/05/14 |     733093035|Thiago              | 8242411000103|Lavaredo Servicos e |        138,39
+   511264|1    |1 |   80648|30/05/14 |42465146000152|Companhia Rko Empree| 6877442000288|Master              |        931,21
+   511264|1    |1 |   80649|30/05/14 |42465146000152|Companhia Rko Empree| 6877442000288|Master              |      1.159,62
+   511264|1    |1 |   80650|30/05/14 |42465146000152|Companhia Rko Empree| 6877442000288|Master              |      1.184,90
+   511269|1    |1 |   80651|30/05/14 |   66147832700|Marcia              | 8242411000103|Lavaredo Servicos e |      1.350,28
+   511269|1    |1 |   80652|30/05/14 |11276456000103|Adc Adminidtracao de| 8242411000103|Lavaredo Servicos e |      1.450,59
+   511269|1    |1 |   80653|30/05/14 |   66147832700|Marcia              | 8242411000103|Lavaredo Servicos e |      1.234,28
+   511269|1    |1 |   80654|30/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |      1.031,32
+   511269|1    |1 |   80655|30/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        466,40
+   511269|1    |1 |   80656|30/05/14 |    9111743700|Carlos Alberto Valen| 8242411000103|Lavaredo Servicos e |        210,60
+   511269|1    |1 |   80657|30/05/14 |   63370441772|Deborah Wilcox      | 8242411000103|Lavaredo Servicos e |        397,57
+   511269|1    |1 |   80658|30/05/14 |   77857119768|Joao Gondim         | 8242411000103|Lavaredo Servicos e |      1.134,10
+   511269|1    |1 |   80659|30/05/14 |   86992554700|Roberto Fernandes Da| 8242411000103|Lavaredo Servicos e |        115,57
+   511264|1    |1 |   80660|30/05/14 |   10793644712|Paula Renaux W. C. M| 6877442000288|Master              |      1.488,82
+   513389|1    |1 |   80661|30/05/14 |   46160205749|Maria Celeste Vieira|32109399000130|Kolloda Repres e Ser|      1.100,03
+   513389|1    |1 |   80662|30/05/14 |   46160205749|Maria Celeste Vieira|32109399000130|Kolloda Repres e Ser|        213,56
+   511264|1    |1 |   80663|30/05/14 |   69184160730|Maria Lucia Gomes Pe| 6877442000288|Master              |         61,50
+   513389|1    |1 |   80664|30/05/14 |   94253315704|Rinaldo             |32109399000130|Kolloda Repres e Ser|        531,51
+   511264|1    |1 |   80665|30/05/14 |   89944062553|Andrea Cardoso Leao | 6877442000288|Master              |        230,14
+   511269|1    |1 |   80666|30/05/14 | 8242411000103|Lavaredo Servicos e | 8242411000103|Lavaredo Servicos e |      2.973,17
+   511449|1    |1 |   80667|30/05/14 |33469164000111|Servico Social      |89962294000146|Florense            |        192,46
+   511449|1    |1 |   80668|30/05/14 |33469164000111|Servico Social      |89962294000146|Florense            |        396,78
+   511449|1    |1 |   80669|30/05/14 |33469164000111|Servico Social      |89962294000146|Florense            |        476,95
+   511449|1    |1 |   80670|30/05/14 |33469164000111|Servico Social      |89962294000146|Florense            |        521,75
+   513389|1    |1 |   80671|30/05/14 |    3052478753|Arnaldo Cezar Coelho|32109399000130|Kolloda Repres e Ser|        219,25
+   511260|1    |1 |   80672|30/05/14 |    2487674709|Joaquim Eugenio Goul| 3835676000193|M D B L Serv.e Repre|         19,69
+   511264|1    |1 |   80673|30/05/14 |    9640947709|Jacqueline Bittencou| 6877442000288|Master              |        165,10
+   513389|1    |1 |   80674|30/05/14 |    3218373719|Flavia Dias Goncalve|32109399000130|Kolloda Repres e Ser|         74,78
+   511269|1    |1 |   80675|30/05/14 |    4764871700|Tania Apparecida Sea| 8242411000103|Lavaredo Servicos e |        208,30
+   511269|1    |1 |   80676|30/05/14 |   10638072719|Daniele Ferreira Cos| 8242411000103|Lavaredo Servicos e |         19,29
+   511264|1    |1 |   80677|30/05/14 |   16032543749|Sergio  Bacaltchuc  | 6877442000288|Master              |         34,17
+   511323|1    |1 |   80678|30/05/14 |    3122013703|Alessandra Guedes Pe|32109399000130|Kolloda Repres e Ser|         30,96
+   511269|1    |1 |   80679|30/05/14 |   55186351768|Luiz Sergio Ferraz d| 8242411000103|Lavaredo Servicos e |         15,12
+   511269|1    |1 |   80680|30/05/14 |    4545461735|Cassia Mussalem Cail| 8242411000103|Lavaredo Servicos e |         46,14
+   511269|1    |1 |   80681|30/05/14 | 7942680000101|Ponto Mix           | 8242411000103|Lavaredo Servicos e |         48,10
+   511264|1    |1 |   80682|30/05/14 |   33289980715|Joao Gaspar C.meyer | 6877442000288|Master              |      1.515,43
+   511264|1    |1 |   80683|30/05/14 |   43333346753|Rafael Bessler      | 6877442000288|Master              |        951,18
+   513389|1    |1 |   80684|30/05/14 |   63797240791|Rosangela Figuino Ch|32109399000130|Kolloda Repres e Ser|      1.007,74
+   511269|1    |1 |   80685|30/05/14 |   49071939634|Aida de Oliveira Pen| 8242411000103|Lavaredo Servicos e |         26,16
+   511269|1    |1 |   80686|30/05/14 |   39770974749|Luzinete das C. Rent| 8242411000103|Lavaredo Servicos e |        545,06
+   511269|1    |1 |   80687|30/05/14 |   39770974749|Luzinete das C. Rent| 8242411000103|Lavaredo Servicos e |         74,20
+   511269|1    |1 |   80688|30/05/14 |   39770974749|Luzinete das C. Rent| 8242411000103|Lavaredo Servicos e |        355,61
+   511269|1    |1 |   80689|30/05/14 |   39770974749|Luzinete das C. Rent| 8242411000103|Lavaredo Servicos e |        257,74
+   511260|1    |1 |   80690|30/05/14 |    1851618716|Maria Cristina G. Es| 3835676000193|M D B L Serv.e Repre|         64,27
+   511269|1    |1 |   80691|30/05/14 |    2533516775|Leila Lanzillotta Es| 8242411000103|Lavaredo Servicos e |      4.353,75
+   511269|1    |1 |   80692|30/05/14 |    2533516775|Leila Lanzillotta Es| 8242411000103|Lavaredo Servicos e |        150,02
+   511269|1    |1 |   80693|30/05/14 |   75333520763|Heleny Barbosa da Si| 8242411000103|Lavaredo Servicos e |      1.575,34
+   513389|1    |1 |   80694|30/05/14 |    1847332781|Sandra Lucia Carvalh|32109399000130|Kolloda Repres e Ser|         35,15
+   511264|1    |1 |   80695|30/05/14 |   90395913500|Marcela da C. R. C. | 6877442000288|Master              |          7,40
+        0|1    |1 |   80696|30/05/14 |   55309550704|Isabela Braga de Car|89962294000146|Florense            |          1,00
+   511269|1    |1 |   80697|30/05/14 |11276456000103|Adc Adminidtracao de| 8242411000103|Lavaredo Servicos e |         81,75
+   511264|1    |1 |   80698|30/05/14 |     541265768|Haroldo Miller Junio| 6877442000288|Master              |         16,06
+   511323|1    |1 |   80699|30/05/14 |   60077450663|Ricardo Mario G. de |32109399000130|Kolloda Repres e Ser|          7,16
+   511264|1    |1 |   80700|30/05/14 |    8228322755|Gustavo Pinha de Abr| 6877442000288|Master              |         27,57
+   511269|1    |1 |   80701|30/05/14 |    1671670736|Alberto Sant.anna St| 8242411000103|Lavaredo Servicos e |         12,02
+   511269|1    |1 |   80702|30/05/14 |    7085228741|Andre Ryfer         | 8242411000103|Lavaredo Servicos e |         15,00
+        0|1    |1 |   80703|30/05/14 |    5348991708|Vanessa dos Santos  |89962294000146|Florense            |          1,00
+   511264|1    |1 |   80704|30/05/14 |   84810238768|Antonio             | 6877442000288|Master              |        808,53
+   511264|1    |1 |   80705|30/05/14 |    7218380735|Renata Cordeiro Guer| 6877442000288|Master              |      2.606,72
+   511269|1    |1 |   80706|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |      1.059,58
+   511269|1    |1 |   80707|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |        100,68
+   511269|1    |1 |   80708|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |         56,58
+   511269|1    |1 |   80709|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |         66,83
+   511269|1    |1 |   80710|30/05/14 |    8947087750|Leonardo Branco Sart| 8242411000103|Lavaredo Servicos e |         71,61
+   513389|1    |1 |   80711|30/05/14 |    8082188758|Daniele dos Santos S|32109399000130|Kolloda Repres e Ser|        347,41
+   511269|1    |1 |   80712|30/05/14 |   77857119768|Joao Gondim         | 8242411000103|Lavaredo Servicos e |         99,82
+   511264|1    |1 |   80713|30/05/14 |    8742341744|Tatiana Castro Mesqu| 6877442000288|Master              |        708,84
+   513389|1    |1 |   80714|30/05/14 |    7591397761|Leonardo  Lopes Cort|32109399000130|Kolloda Repres e Ser|         62,99
+   513389|1    |1 |   80715|30/05/14 |   19653999753|Orly Henriques      |32109399000130|Kolloda Repres e Ser|        151,00
+   511264|1    |1 |   80716|30/05/14 |   41406010006|Raquel Lammel e Pinh| 6877442000288|Master              |         70,36
+   511323|1    |1 |   80717|30/05/14 |   87177358749|Josiani Santos Olive|32109399000130|Kolloda Repres e Ser|         30,94
+   511264|1    |1 |   80718|30/05/14 |   21869928091|Ingbert Kunert      | 6877442000288|Master              |         59,79
+   511264|1    |1 |   80719|30/05/14 |    3784673791|Abrao               | 6877442000288|Master              |         16,69
+   511323|1    |1 |   80720|30/05/14 |    6900448798|Patricia Paula de Mo|32109399000130|Kolloda Repres e Ser|         16,33
+   511269|1    |1 |   80721|30/05/14 |   96675390759|Andrea Marinho      | 8242411000103|Lavaredo Servicos e |         13,71
+   511264|1    |1 |   80722|30/05/14 |    1674361718|Fabiana de Azevedo Y| 6877442000288|Master              |         51,07
+        0|1    |1 |   80723|30/05/14 |12261679000151|Inovare Rep. e Serv.|89962294000146|Florense            |          1,00
+        0|1    |1 |   80724|30/05/14 |   37026704753|Ilmar Mendes Gomes  |89962294000146|Florense            |          1,00
+        0|1    |1 |   80725|30/05/14 |   22196170097|Zilmar Renato       |89962294000146|Florense            |          1,00
+        0|1    |1 |   80726|30/05/14 |     253923794|Marcelo Feber       |89962294000146|Florense            |          1,00
+   511269|1    |1 |   80727|30/05/14 |   49445090730|Nilo Sergio Loja da | 8242411000103|Lavaredo Servicos e |         12,87
+   511263|1    |1 |   80728|30/05/14 | 6877442000105|Master Repr. e Servi| 6877442000105|Master Repr. e Servi|         14,67
+        0|1    |1 |   80729|30/05/14 |   81402783868|Erlindo Eiji Uemoto |89962294000146|Florense            |          1,00
+        0|1    |1 |   80730|30/05/14 |31685506000105|Casal Com de Aut e S|89962294000146|Florense            |          1,00
+   513389|1    |1 |   80731|30/05/14 |    4643105712|Rodrigo Moura de Ara|32109399000130|Kolloda Repres e Ser|        134,02
+   511269|1    |1 |   80920|30/05/14 |11276456000103|Adc Adminidtracao de| 8242411000103|Lavaredo Servicos e |      1.387,09
+   511269|1    |1 |   80921|30/05/14 |11276456000103|Adc Adminidtracao de| 8242411000103|Lavaredo Servicos e |      1.418,32
+   511262|1    |1 |   80922|30/05/14 |   47418230753|Antonio Julio Araujo| 5542012000161|La-gatta Representac|        405,33
+   511288|1    |1 |   80967|30/05/14 | 7924326000154|Dalman              | 7924326000154|Dalman              |         17,57
+   511288|1    |1 |   80970|30/05/14 |    3204326616|Jose Braz Neto      | 7924326000154|Dalman              |         70,38
+   511449|1    |1 |   81116|30/05/14 |32072175000109|Madiska Mat. e Dist.|89962294000146|Florense            |        854,13
+   511262|1    |1 |   81118|30/05/14 |     758193769|Rodrigo Rodriguez de| 5542012000161|La-gatta Representac|          6,07
+   511262|1    |1 |   81122|30/05/14 |    5428960795|Dayves Pereira F. de| 5542012000161|La-gatta Representac|      4.422,58
+   511262|1    |1 |   81123|30/05/14 |11463150000158|Juma Com. de Aliment| 5542012000161|La-gatta Representac|         57,57
+        0|1    |1 |   81124|30/05/14 |11463150000158|Juma Com. de Aliment|89962294000146|Florense            |          1,00
+   511262|1    |1 |   81125|30/05/14 |68607258000194|Material Cons       | 5542012000161|La-gatta Representac|          7,77
+        0|1    |1 |   81126|30/05/14 | 6059442000190|Fazenda Alvorada    |89962294000146|Florense            |          1,00
+        0|1    |1 |   81127|30/05/14 | 7668802000113|Meegripp            |89962294000146|Florense            |          1,00
+   511280|1    |1 |   81152|30/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|      1.185,45
+   511258|1    |1 |   81153|30/05/14 |   16823070854|Luis Fernando de Cas| 3070065000100|Maxi Alpha Serv.e Re|        971,95
+   511280|1    |1 |   81154|30/05/14 |   26866096804|Erica Salguero      |65783672000166|Feriotti Repres Serv|      1.007,38
+   511280|1    |1 |   81155|30/05/14 |    4196271898|Wilson Aparecido de |65783672000166|Feriotti Repres Serv|      1.042,49
+   511258|1    |1 |   81156|30/05/14 |   80937551872|Nauplio Valle Jardim| 3070065000100|Maxi Alpha Serv.e Re|        300,33
+   511258|1    |1 |   81157|30/05/14 |   80937551872|Nauplio Valle Jardim| 3070065000100|Maxi Alpha Serv.e Re|        194,00
+   511280|1    |1 |   81158|30/05/14 |    4421334804|Katia Maria C Maia M|65783672000166|Feriotti Repres Serv|        197,09
+   511258|1    |1 |   81159|30/05/14 |   80937551872|Nauplio Valle Jardim| 3070065000100|Maxi Alpha Serv.e Re|        173,56
+        0|1    |1 |   81160|30/05/14 |   22231772809|Yonit Havlin        |89962294000146|Florense            |          1,00
+   511258|1    |1 |   81161|30/05/14 |   80937551872|Nauplio Valle Jardim| 3070065000100|Maxi Alpha Serv.e Re|        110,01
+   511258|1    |1 |   81162|30/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|         22,58
+   511258|1    |1 |   81163|30/05/14 |   16823070854|Luis Fernando de Cas| 3070065000100|Maxi Alpha Serv.e Re|         86,23
+   511280|1    |1 |   81164|30/05/14 |    5628755818|Gisela Yaemi Mathi S|65783672000166|Feriotti Repres Serv|         36,08
+   511258|1    |1 |   81165|30/05/14 |   30352627808|Priscila R. Gasparin| 3070065000100|Maxi Alpha Serv.e Re|          8,11
+   511258|1    |1 |   81166|30/05/14 |   12507734825|Fabiana Penda Alvare| 3070065000100|Maxi Alpha Serv.e Re|        173,96
+        0|1    |1 |   81167|30/05/14 |   24619170860|Rodrigo Martensen   |89962294000146|Florense            |          1,00
+   511280|1    |1 |   81168|30/05/14 |    3329648848|Fernando Fernandes C|65783672000166|Feriotti Repres Serv|          7,28
+   511258|1    |1 |   81169|30/05/14 |   80775489891|Jose Gerson Antunes | 3070065000100|Maxi Alpha Serv.e Re|         16,84
+   511258|1    |1 |   81170|30/05/14 |   16823070854|Luis Fernando de Cas| 3070065000100|Maxi Alpha Serv.e Re|         76,68
+   511265|1    |1 |   81193|31/05/14 |   37915304020|Daniel Reinhardt    | 6975016000104|Prodecor Serv.p/deco|        492,99
+        0|1    |1 |   81194|31/05/14 |   77403584953|Monica de Borba     |89962294000146|Florense            |          1,00
+        0|1    |1 |   81195|31/05/14 |   95065393915|Adilson da Rosa Ribe|89962294000146|Florense            |          1,00
+   511265|1    |1 |   81196|31/05/14 |   95065393915|Adilson da Rosa Ribe| 6975016000104|Prodecor Serv.p/deco|          2,58
+   511265|1    |1 |   81197|31/05/14 |    4127744960|Leonardo Jonck Staub| 6975016000104|Prodecor Serv.p/deco|          4,11
+   511265|1    |1 |   81198|31/05/14 |   22436448949|Aldo Jose Leal      | 6975016000104|Prodecor Serv.p/deco|         20,44
+   511257|1    |1 |   81199|31/05/14 |79244158000167|Procave Inv. Inc. La|  289620000192|Vicenza Serv e Repre|      2.406,02
+   511257|1    |1 |   81200|31/05/14 |   36063932020|Paulo Airton Menezes|  289620000192|Vicenza Serv e Repre|      1.634,24
+        0|1    |1 |   81201|31/05/14 |   36063932020|Paulo Airton Menezes|89962294000146|Florense            |          1,00
+   511989|1    |1 |   81202|31/05/14 |  424011000107|Vicenza             |  424011000107|Vicenza             |         85,36
+        0|1    |1 |   81203|31/05/14 |  424011000107|Vicenza             |89962294000146|Florense            |          1,00
+   511257|1    |1 |   81204|31/05/14 |79244158000167|Procave Inv. Inc. La|  289620000192|Vicenza Serv e Repre|         28,69
+   511257|1    |1 |   81312|31/05/14 |    1997013932|Josiane Siebert     |  289620000192|Vicenza Serv e Repre|          8,82
+        0|1    |1 |   81313|31/05/14 |    1997013932|Josiane Siebert     |89962294000146|Florense            |          1,00
+   511257|1    |1 |   81314|31/05/14 |    4851133928|Luana Karine Scorteg|  289620000192|Vicenza Serv e Repre|        259,70
+        0|1    |1 |   81315|31/05/14 |    1885251904|Vilson Heil         |89962294000146|Florense            |          1,00
+   511257|1    |1 |   81316|31/05/14 | 6081065000195|Haacke Empreend. Imo|  289620000192|Vicenza Serv e Repre|          5,81
+   511257|1    |1 |   81317|31/05/14 |79244158000167|Procave Inv. Inc. La|  289620000192|Vicenza Serv e Repre|          9,18

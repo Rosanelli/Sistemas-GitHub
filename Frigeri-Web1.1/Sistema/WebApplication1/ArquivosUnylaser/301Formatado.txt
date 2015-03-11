@@ -1,0 +1,36 @@
+   1PLANO 30062014DB3221001CCUSTO32315 2131001            VLR.FOLHA PAGAMENTO 06/14 299                                                         6389,17
+   2PLANO 30062014cr2131001            2131001            VLR.FOLHA PAGAMENTO 06/14 299                                                         6389,17
+   3PLANO 30062014DB3221010CCUSTO32315 2131001            VLR.INSALUBRIDADE 06/14 299                                                            144,80
+   4PLANO 30062014cr2131001            2131001            VLR.INSALUBRIDADE 06/14 299                                                            144,80
+   5PLANO 30062014DB2131001            2131001            VLR.INSS S/FOLHA 06/14 299                                                             587,85
+   6PLANO 30062014cr2131025            2131001            VLR.INSS S/FOLHA 06/14 299                                                             587,85
+   7PLANO 30062014DB2131001            2131001            VLR.CONTR.CONFEDERATIVA 06/14 299                                                       20,00
+   8PLANO 30062014cr2131030            2131001            VLR.CONTR.CONFEDERATIVA 06/14 299                                                       20,00
+   9PLANO 30062014DB2131001            2131001            VLR.FOLHA PAGAMENTO 06/14 299                                                            1,32
+  10PLANO 30062014cr3221001CCUSTO32315 2131001            VLR.FOLHA PAGAMENTO 06/14 299                                                            1,32
+  11PLANO 30062014DB2131001            2131001            VLR.DESC.S/FOLHA FARMACIA 06/14 299                                                     37,08
+  12PLANO 30062014cr1122025            2131001            VLR.DESC.S/FOLHA FARMACIA 06/14 299                                                     37,08
+  13PLANO 30062014DB2131001            2131001            VLR.DESC.S/FOLHA VALE TRANSPORTE 06/14 299                                              40,84
+  14PLANO 30062014cr9110103CCUSTO32315 2131001            VLR.DESC.S/FOLHA VALE TRANSPORTE 06/14 299                                              40,84
+  15PLANO 30062014DB2131001            2131001            VLR.DESC.S/FOLHA ASSISTENCIA MEDICA 06/14 299                                          123,00
+  16PLANO 30062014cr9110102CCUSTO32315 2131001            VLR.DESC.S/FOLHA ASSISTENCIA MEDICA 06/14 299                                          123,00
+  17PLANO 30062014DB2131001            2131001            VLR.IRRF RETIDO 06/14 299                                                              341,89
+  18PLANO 30062014cr2131035            2131001            VLR.IRRF RETIDO 06/14 299                                                              341,89
+  19PLANO 30062014DB2131001            2131001            VLR.DESC.S/FOLHA 06/14 299                                                             140,99
+  20PLANO 30062014cr2151035            2131001            VLR.DESC.S/FOLHA 06/14 299                                                             140,99
+  21PLANO 30062014DB3221515CCUSTO32315 2131001            VLR.PROVISAO FERIAS 06/14 299                                                          681,09
+  22PLANO 30062014cr2161001            2131001            VLR.PROVISAO FERIAS 06/14 299                                                          681,09
+  23PLANO 30062014DB3221501CCUSTO32315 2131001            PROV.INSS S/FERIAS 06/14 299                                                           208,69
+  24PLANO 30062014cr2161010            2131001            PROV.INSS S/FERIAS 06/14 299                                                           208,69
+  25PLANO 30062014DB3221505CCUSTO32315 2131001            PROV FGTS S/FERIAS 06/14 299                                                            54,48
+  26PLANO 30062014cr2161005            2131001            PROV FGTS S/FERIAS 06/14 299                                                            54,48
+  27PLANO 30062014DB3231510CCUSTO32315 2131001            VLR.PROV 13 SALARIO 06/14 299                                                          514,70
+  28PLANO 30062014cr2161015            2131001            VLR.PROV 13 SALARIO 06/14 299                                                          514,70
+  29PLANO 30062014DB3221501CCUSTO32315 2131001            PROV INSS S/13o SALARIO 06/14 299                                                      157,71
+  30PLANO 30062014cr2161025            2131001            PROV INSS S/13o SALARIO 06/14 299                                                      157,71
+  31PLANO 30062014DB3221505CCUSTO32315 2131001            PROV FGTS S/13o 06/14 299                                                               51,63
+  32PLANO 30062014cr2161020            2131001            PROV FGTS S/13o 06/14 299                                                               51,63
+  33PLANO 30062014DB3221501CCUSTO32315 2131001            VLR.INSS S/FOLHA 06/14 299                                                            2001,73
+  34PLANO 30062014cr2131025            2131001            VLR.INSS S/FOLHA 06/14 299                                                            2001,73
+  35PLANO 30062014DB3221505CCUSTO32315 2131001            VLR.FGTS S/FOLHA 0614 299                                                              647,27
+  36PLANO 30062014cr2131020            2131001            VLR.FGTS S/FOLHA 0614 299                                                              647,27

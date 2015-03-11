@@ -1,0 +1,42 @@
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\bin\SiteRada.dll.config
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\bin\SiteRada.dll
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\bin\SiteRada.pdb
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\obj\Debug\SiteRada.dll
+c:\users\alan\documents\visual studio 2013\Projects\SiteRada\SiteRada\obj\Debug\SiteRada.pdb
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\bin\SiteRada.dll.config
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\bin\SiteRada.dll
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\bin\SiteRada.pdb
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\obj\Debug\SiteRada.dll
+E:\Dados\Sistemas\Sistemas\Rada\Site\SiteRada\obj\Debug\SiteRada.pdb
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\bin\SiteRada.dll.config
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\bin\SiteRada.dll
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\bin\SiteRada.pdb
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\obj\Debug\SiteRada.dll
+E:\SkyDrive\Sistemas_Ativos\Rada\Site\SiteRada\obj\Debug\SiteRada.pdb
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.dll.config
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.dll
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.pdb
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.dll
+E:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.dll.config
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\bin\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\Rada1.1\Site\SiteRada\obj\Debug\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\bin\SiteRada.dll.config
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\bin\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\bin\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\obj\Debug\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\Site-Julio\Site\SiteRada\obj\Debug\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\bin\SiteRada.dll.config
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\bin\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\bin\SiteRada.pdb
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\obj\Debug\SiteRada.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\obj\Debug\SiteRada.dll
+D:\SkyDrive\Sistemas_Ativos\bortolotti\Site\SiteRada\obj\Debug\SiteRada.pdb

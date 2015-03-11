@@ -1,0 +1,96 @@
+LC100001   127062014                                                7999988302419000149     11203                   0000000000467.00PAGAMENTO DUPL. 350/01 MECANICA PARANA LT
+LC100002   130062014                                                7999988302419000149     11204                   0000000000567.50PAGAMENTO DUPL. 351/01 MECANICA PARANA LT
+LC100003   111062014                                                7999902955062000182     11204                   0000000003670.00PAGAMENTO DUPL. 953/01 FRIGERI CONTABILID
+LC100004   118062014                                                7999994007002000156     11201                   0000000000133.10PAGAMENTO DUPL. 1163/01 LAUDINO ORSO - ME
+LC100005   120062014                                                7999994007002000156     11201                   0000000000115.00PAGAMENTO DUPL. 1164/01 LAUDINO ORSO - ME
+LC100006   126062014                                                7999994007002000156     11203                   0000000000235.00PAGAMENTO DUPL. 1171/01 LAUDINO ORSO - ME
+LC100007   120062014                                                7999972383524000110     11201                   0000000000700.00PAGAMENTO DUPL. 1253/01 MOLAS PERNAMBUCO L
+LC100008   108072014                                                7999972383524000110     11203                   0000000000700.00PAGAMENTO DUPL. 1253/02 MOLAS PERNAMBUCO L
+LC100009   102072014                                                7999972383524000110     11201                   0000000000519.00PAGAMENTO DUPL. 1264/01 MOLAS PERNAMBUCO L
+LC100010   125062014                                                7999986953932000174     11201                   0000000000721.00PAGAMENTO DUPL. 1311/02 R P M CONSERTO DE
+LC100011   110062014                                                7999977969251000103     11201                   0000000038297.76PAGAMENTO DUPL. 1956/01 AUTO POSTO PELANDA
+LC100012   126062014                                                7999903380389000136     11204                   0000000026811.04PAGAMENTO DUPL. 2014/03 KIWA EMPREENDIMENT
+LC100013   126062014                                                7999903380389000136     11204                   0000000026811.04PAGAMENTO DUPL. 2014/04 KIWA EMPREENDIMENT
+LC100014   126062014                                                7999903380389000136     11204                   0000000026811.03PAGAMENTO DUPL. 2014/05 KIWA EMPREENDIMENT
+LC100015   124062014                                                7999911743590000169     11204                   0000000000445.00PAGAMENTO DUPL. 2028/01 CARLOS EDUARDO M C
+LC100016   109062014                                                7999992641653000178     11204                   0000000000897.40PAGAMENTO DUPL. 2536/05 MECANICA DALLACUA
+LC100017   103072014                                                7999992641653000178     11201                   0000000002341.99PAGAMENTO DUPL. 2538/06 MECANICA DALLACUA
+LC100018   111062014                                                7999905152630000103     11204                   0000000000248.00PAGAMENTO DUPL. 2659/01 CARDAN GUARUS COME
+LC100019   101072014                                                7999992641653000178     11201                   0000000000442.00PAGAMENTO DUPL. 2812/02 MECANICA DALLACUA
+LC100020   109062014                                                7999992641653000178     11204                   0000000000364.00PAGAMENTO DUPL. 2816/02 MECANICA DALLACUA
+LC100021   108072014                                                7999992641653000178     11203                   0000000000421.00PAGAMENTO DUPL. 2850/02 MECANICA DALLACUA
+LC100022   101072014                                                7999992641653000178     11201                   0000000000541.00PAGAMENTO DUPL. 2852/02 MECANICA DALLACUA
+LC100023   118062014                                                7999992641653000178     11201                   0000000000480.50PAGAMENTO DUPL. 2891/01 MECANICA DALLACUA
+LC100024   113062014                                                7999992641653000178     11203                   0000000000182.00PAGAMENTO DUPL. 2950/01 MECANICA DALLACUA
+LC100025   102072014                                                7999992641653000178     11201                   0000000000570.03PAGAMENTO DUPL. 2951/01 MECANICA DALLACUA
+LC100026   117062014                                                7999992641653000178     11204                   0000000000117.00PAGAMENTO DUPL. 2958/01 MECANICA DALLACUA
+LC100027   107072014                                                7999992641653000178     11201                   0000000000504.00PAGAMENTO DUPL. 2959/01 MECANICA DALLACUA
+LC100028   123062014                                                7999992641653000178     11201                   0000000000227.00PAGAMENTO DUPL. 2965/01 MECANICA DALLACUA
+LC100029   110072014                                                7999992641653000178     11201                   0000000000455.00PAGAMENTO DUPL. 2969/01 MECANICA DALLACUA
+LC100030   127062014                                                7999992641653000178     11201                   0000000000162.00PAGAMENTO DUPL. 2970/01 MECANICA DALLACUA
+LC100031   106062014                                                7999905033275000145     11201                   0000000001585.00PAGAMENTO DUPL. 3073/02 RODOPLAN PECAS E S
+LC100032   109072014                                                7999931447055000178     11201                   0000000002000.00PAGAMENTO DUPL. 4912/01 DRAGAO DE CAMPOS E
+LC100033   123062014                                                7999907753415000185     11201                   0000000000250.00PAGAMENTO DUPL. 6809/01 COMERCIO DE VELOCI
+LC100034   110072014                                                7999907753415000185     11204                   0000000000112.00PAGAMENTO DUPL. 6877/01 COMERCIO DE VELOCI
+LC100035   110072014                                                7999993527794000127     11201                   0000000000230.00PAGAMENTO DUPL. 8092/01 BORMANA COMERCIO D
+LC100036   110072014                                                7999993527794000127     11201                   0000000000298.46PAGAMENTO DUPL. 8092/02 BORMANA COMERCIO D
+LC100037   116062014                                                7999994616059000314     11203                   0000000001908.82PAGAMENTO DUPL. 9617/03 BIVEL VEICULOS LTD
+LC100038   118062014                                                7999994616059000314     11201                   0000000001259.00PAGAMENTO DUPL. 9706/02 BIVEL VEICULOS LTD
+LC100039   107072014                                                7999994616059000314     11201                   0000000001259.26PAGAMENTO DUPL. 9706/03 BIVEL VEICULOS LTD
+LC100040   126062014                                                7999994616059000314     11203                   0000000000510.00PAGAMENTO DUPL. 9756/02 BIVEL VEICULOS LTD
+LC100041   109062014                                                7999994616059000314     11204                   0000000000637.00PAGAMENTO DUPL. 9765/01 BIVEL VEICULOS LTD
+LC100042   130062014                                                7999994616059000314     11204                   0000000000636.20PAGAMENTO DUPL. 9765/02 BIVEL VEICULOS LTD
+LC100043   107072014                                                7999994616059000314     11203                   0000000000356.37PAGAMENTO DUPL. 9848/01 BIVEL VEICULOS LTD
+LC100044   130062014                                                7999994616059000314     11204                   0000000001520.00PAGAMENTO DUPL. 9865/01 BIVEL VEICULOS LTD
+LC100045   124062014                                                7999994616059000314     11204                   0000000000254.00PAGAMENTO DUPL. 9894/01 BIVEL VEICULOS LTD
+LC100046   112062014                                                7999910336846000150     11204                   0000000002700.55PAGAMENTO DUPL. 10467/01 GLOBAL 5 ENGENHARI
+LC100047   116062014                                                7999945987005013923     11203                   0000000000200.00PAGAMENTO DUPL. 16295/01 DPASCHOAL COMERCIA
+LC100048   127062014                                                7999993527794000127     11203                   0000000000760.16PAGAMENTO DUPL. 23128/02 BORMANA COMERCIO D
+LC100049   103072014                                                7999993527794000127     11201                   0000000000558.52PAGAMENTO DUPL. 23687/01 BORMANA COMERCIO D
+LC100050   109062014                                                7999927024819000226     11204                   0000000000389.05PAGAMENTO DUPL. 36469/01 CONTAUTO CONTINENT
+LC100051   102072014                                                7999911164284000178     11201                   0000000000259.17PAGAMENTO DUPL. 45169/04 DGSUL VEIC E SERV
+LC100052   127062014                                                7999988616511000183     11201                   0000000001807.50PAGAMENTO DUPL. 47393/03 BRASDIESEL S. A. C
+LC100053   118062014                                                7999962173620001909     11201                   0000000000565.24PAGAMENTO DUPL. 51736/05 SERASA S/A
+LC100054   124062014                                                7999909091832000135     11201                   0000000000795.30PAGAMENTO DUPL. 96469/1 FLORENCA CAMINHOES
+LC100055   124062014                                                7999988616511000183     11201                   0000000000520.00PAGAMENTO DUPL. 257121/01 BRASDIESEL S. A. C
+LC100056   111062014                                                7999902955062000182     11204                   0000000003000.00PAGAMENTO DUPL. 3592014/12 FRIGERI CONTABILID
+LC100057   118062014                                                7999902955062000182     11201                   0000000002000.00PAGAMENTO DUPL. 3592014/13 FRIGERI CONTABILID
+LC100058   118062014                                                7999908045744000134     11201                   0000000000436.63PAGAMENTO DUPL. 76804652/01 R PEREIRA COM. VAR
+LC100059   124062014                                                7999908045744000134     11201                   0000000000259.97PAGAMENTO DUPL. 77304680/01 R PEREIRA COM. VAR
+LC100060   127062014                                                57105                   11203                   0000000000047.68PAGAMENTO JUROS S/DUPL. 350/01 MECANICA PARANA LT
+LC100061   130062014                                                57105                   11204                   0000000000047.68PAGAMENTO JUROS S/DUPL. 351/01 MECANICA PARANA LT
+LC100062   120062014                                                57105                   11201                   0000000000050.58PAGAMENTO JUROS S/DUPL. 1253/01 MOLAS PERNAMBUCO L
+LC100063   108072014                                                57105                   11203                   0000000000050.58PAGAMENTO JUROS S/DUPL. 1253/02 MOLAS PERNAMBUCO L
+LC100064   102072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 1264/01 MOLAS PERNAMBUCO L
+LC100065   125062014                                                57105                   11201                   0000000000065.16PAGAMENTO JUROS S/DUPL. 1311/02 R P M CONSERTO DE
+LC100066   126062014                                                57105                   11204                   0000000016247.50PAGAMENTO JUROS S/DUPL. 2014/05 KIWA EMPREENDIMENT
+LC100067   109062014                                                57105                   11204                   0000000000050.58PAGAMENTO JUROS S/DUPL. 2536/05 MECANICA DALLACUA
+LC100068   103072014                                                57105                   11201                   0000000000058.78PAGAMENTO JUROS S/DUPL. 2538/06 MECANICA DALLACUA
+LC100069   101072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2812/02 MECANICA DALLACUA
+LC100070   109062014                                                57105                   11204                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2816/02 MECANICA DALLACUA
+LC100071   108072014                                                57105                   11203                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2850/02 MECANICA DALLACUA
+LC100072   101072014                                                57105                   11201                   0000000000046.68PAGAMENTO JUROS S/DUPL. 2852/02 MECANICA DALLACUA
+LC100073   118062014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2891/01 MECANICA DALLACUA
+LC100074   102072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2951/01 MECANICA DALLACUA
+LC100075   107072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2959/01 MECANICA DALLACUA
+LC100076   110072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 2969/01 MECANICA DALLACUA
+LC100077   106062014                                                57105                   11201                   0000000000058.78PAGAMENTO JUROS S/DUPL. 3073/02 RODOPLAN PECAS E S
+LC100078   109072014                                                57105                   11201                   0000000000063.93PAGAMENTO JUROS S/DUPL. 4912/01 DRAGAO DE CAMPOS E
+LC100079   110072014                                                57105                   11201                   0000000000041.38PAGAMENTO JUROS S/DUPL. 8092/01 BORMANA COMERCIO D
+LC100080   110072014                                                57105                   11201                   0000000000044.68PAGAMENTO JUROS S/DUPL. 8092/02 BORMANA COMERCIO D
+LC100081   116062014                                                57105                   11203                   0000000000058.78PAGAMENTO JUROS S/DUPL. 9617/03 BIVEL VEICULOS LTD
+LC100082   118062014                                                57105                   11201                   0000000000058.78PAGAMENTO JUROS S/DUPL. 9706/02 BIVEL VEICULOS LTD
+LC100083   107072014                                                57105                   11201                   0000000000058.78PAGAMENTO JUROS S/DUPL. 9706/03 BIVEL VEICULOS LTD
+LC100084   126062014                                                57105                   11203                   0000000000047.68PAGAMENTO JUROS S/DUPL. 9756/02 BIVEL VEICULOS LTD
+LC100085   109062014                                                57105                   11204                   0000000000050.58PAGAMENTO JUROS S/DUPL. 9765/01 BIVEL VEICULOS LTD
+LC100086   130062014                                                57105                   11204                   0000000000050.58PAGAMENTO JUROS S/DUPL. 9765/02 BIVEL VEICULOS LTD
+LC100087   107072014                                                57105                   11203                   0000000000047.68PAGAMENTO JUROS S/DUPL. 9848/01 BIVEL VEICULOS LTD
+LC100088   130062014                                                57105                   11204                   0000000000058.78PAGAMENTO JUROS S/DUPL. 9865/01 BIVEL VEICULOS LTD
+LC100089   112062014                                                57105                   11204                   0000000000059.41PAGAMENTO JUROS S/DUPL. 10467/01 GLOBAL 5 ENGENHARI
+LC100090   127062014                                                57105                   11203                   0000000000050.58PAGAMENTO JUROS S/DUPL. 23128/02 BORMANA COMERCIO D
+LC100091   103072014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 23687/01 BORMANA COMERCIO D
+LC100092   109062014                                                57105                   11204                   0000000000007.92PAGAMENTO JUROS S/DUPL. 36469/01 CONTAUTO CONTINENT
+LC100093   102072014                                                57105                   11201                   0000000000004.20PAGAMENTO JUROS S/DUPL. 45169/04 DGSUL VEIC E SERV
+LC100094   127062014                                                57105                   11201                   0000000000058.78PAGAMENTO JUROS S/DUPL. 47393/03 BRASDIESEL S. A. C
+LC100095   124062014                                                57105                   11201                   0000000000026.50PAGAMENTO JUROS S/DUPL. 96469/1 FLORENCA CAMINHOES
+LC100096   124062014                                                57105                   11201                   0000000000047.68PAGAMENTO JUROS S/DUPL. 257121/01 BRASDIESEL S. A. C

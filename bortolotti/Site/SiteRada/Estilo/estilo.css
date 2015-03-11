@@ -1,0 +1,155 @@
+﻿
+
+navbar navbar-inverse navbar-fixed-top {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
+
+img {
+    border: 0;
+}
+
+h1, #pixels {
+    font-family: "Museo 900", Verdana, serif;
+    font-size-adjust: 0.40;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Beau Sans Pro Book", 'Segoe UI', sans-serif;
+    font-size-adjust: 0.531;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#header h1, #pixels {
+    color: #48941A;
+}
+
+.float-left {
+    float: left;
+    margin: 0 0px 0 0px;
+}
+
+.float-right {
+    float: right;
+    margin: 0 20px 0 0px;
+}
+
+.center {
+    font-size: 2.5em;
+    padding: 80px 0 0 0;
+    text-align: center;
+}
+
+.FieldFixo {
+    width: 100%;
+    position: fixed;
+    box-shadow: 3px 3px 6px 5px #000;
+    -moz-box-shadow: 3px 3px 6px 5px #000;
+    -webkit-box-shadow: 3px 3px 6px 5px #000;
+    -o-box-shadow: 3px 3px 6px 5px #000;
+    -moz-border-radius: 6px;
+    */ -webkit-border-radius: 6px;
+    */;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+#header, #intro, #second {
+    width: 100%;
+}
+
+#intro {
+    background: url(../Imagens/intro1.jpg) 50% 0 no-repeat fixed;
+    background-size: 100% 100%;
+    color: white;
+    height: 700px;
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: 3px 3px 6px 5px #000;
+    -moz-box-shadow: 0px 0px 0px 0px #000;
+    -webkit-box-shadow: 0px 3px 6px 2px #000;
+    -o-box-shadow: 3px 3px 6px 5px #000;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
+#second {
+    background: url(../Imagens/secondBG.jpg) 50% 0 no-repeat fixed;
+    color: white;
+    height: 700px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0;
+    /*box-shadow: 3px 3px 6px 5px #000;
+    -moz-box-shadow: 0px 0px 0px 0px #000;
+    -webkit-box-shadow: 0px 3px 6px 2px #000;
+    -o-box-shadow: 3px 3px 6px 5px #000;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;*/
+}
+
+/*#second .bg {
+        background: url(../images/trainers.png) 50% 0 no-repeat fixed;
+        height: 1300px;
+        margin: 0 auto;
+        padding: 0;
+        position: absolute;
+        width: 900px;
+        z-index: 200;
+    }*/
+
+#third {
+    background: url(../Imagens/thirdBG.jpg) 50% 0 no-repeat fixed;
+    color: white;
+    height: 700px;
+    padding: 100px 0 0 0;
+    box-shadow: 3px 3px 6px 5px #000;
+    -moz-box-shadow: 0px 0px 0px 0px #000;
+    -webkit-box-shadow: 0px 3px 6px 2px #000;
+    -o-box-shadow: 3px 3px 6px 5px #000;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
+#fifth {
+    background: url(../Imagens/contato.jpg) 50% 0 no-repeat fixed;
+    height: 300px;
+    margin: 0 auto;
+    padding: 40px 0 0 0;
+    box-shadow: 3px 3px 6px 5px #000;
+    -moz-box-shadow: 0px 0px 0px 0px #000;
+    -webkit-box-shadow: 0px 3px 6px 2px #000;
+    -o-box-shadow: 3px 3px 6px 5px #000;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
+.story {
+    margin: 0 auto;
+    min-width: 980px;
+    overflow: auto;
+    width: 1100px;
+}
+
+    .story .float-left, .story .float-right {
+        padding: 50px 0 0px 0;
+        position: relative;
+        width: 1000px;
+    }
+
+.imagens_Inicio {
+    height: 250px;
+    Width: 300px;
+}

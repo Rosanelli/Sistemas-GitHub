@@ -1,0 +1,18 @@
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe.config
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.pdb
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.Form1.resources
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.exe
+c:\users\alan\documents\visual studio 2013\Projects\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.pdb
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe.config
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.exe
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.pdb
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.exe
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\bin\Debug\ControleAcesso.pdb
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.Form1.resources
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.Properties.Resources.resources
+D:\SkyDrive\Sistemas_Ativos\ControleAcesso\ControleAcesso\obj\Debug\ControleAcesso.csproj.GenerateResource.Cache

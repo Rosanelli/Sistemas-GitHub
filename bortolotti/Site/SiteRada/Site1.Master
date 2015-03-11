@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SiteRada.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <%--<link href="~/Estilo/estilo.css" rel="stylesheet" type="text/css" />--%>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div id="header">
+
+            <asp:Image ID="Image1" CssClass="logo" runat="server" ImageAlign="Left"  ImageUrl="~/Imagens/logo.png" Height="115px" Width="221px"   />
+
+            <ul>
+                <li><a href="Principal.aspx">Contato</a></li>
+                <li><a href="Cadastro_Empresa.aspx">Dados Técnicos</a></li>
+                <li><a href="Cadastro_Empresa.aspx">Outros Produtos</a></li>
+                <li><a href="Cadastro_Empresa.aspx">Empresa</a></li>
+                <li><a href="Cadastro_Empresa.aspx">Produto</a></li>
+            </ul>
+
+        </div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <div id="footer">
+        </div>
+
+    </form>
+</body>
+</html>

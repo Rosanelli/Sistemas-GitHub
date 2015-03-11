@@ -1,0 +1,89 @@
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\Alan\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\WebApplication1.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\WebApplication1.pdb
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Antlr3.Runtime.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.Core.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\EntityFramework.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\System.Web.Optimization.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\System.Web.Providers.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\WebGrease.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\EntityFramework.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.Core.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+E:\SkyDrive\FrigeriWeb\WebApplication1\obj\Release\WebApplication1.dll
+E:\SkyDrive\FrigeriWeb\WebApplication1\obj\Release\WebApplication1.pdb
+E:\SkyDrive\FrigeriWeb\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\WebApplication1.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\WebApplication1.pdb
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Antlr3.Runtime.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.Core.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\EntityFramework.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\System.Web.Optimization.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\System.Web.Providers.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\WebGrease.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\EntityFramework.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.Core.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\obj\Release\WebApplication1.dll
+D:\SkyDrive\Sistemas_Ativos\Frigeri-Web1.1\Sistema\WebApplication1\obj\Release\WebApplication1.pdb
