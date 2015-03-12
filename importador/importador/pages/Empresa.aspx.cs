@@ -749,7 +749,12 @@ namespace importador.pages
                         Session["conta"] = false;
 
                         contaRepetida = false;
-                        linkaContasNulas(contaRepetida, lanc);
+
+                        if(lanc.historico != null)
+                        {
+                            linkaContasNulas(contaRepetida, lanc);
+                        }
+                        
 
                     }
                 }
