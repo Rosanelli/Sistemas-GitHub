@@ -1,0 +1,9 @@
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\bin\Debug\gerenciamentoProcessos.exe
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\bin\Debug\gerenciamentoProcessos.pdb
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\obj\Debug\gerenciamentoProcessos.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\obj\Debug\gerenciamentoProcessos.exe
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\obj\Debug\gerenciamentoProcessos.pdb
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\bin\Debug\gerenciamentoProcessos.exe.manifest
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\bin\Debug\gerenciamentoProcessos.application
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\obj\Debug\gerenciamentoProcessos.exe.manifest
+c:\users\alan\documents\visual studio 2013\Projects\gerenciamentoProcessos\gerenciamentoProcessos\obj\Debug\gerenciamentoProcessos.application
