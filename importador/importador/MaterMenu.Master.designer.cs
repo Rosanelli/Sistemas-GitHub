@@ -31,6 +31,15 @@ namespace importador {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// logo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ImageButton logo;
+        
+        /// <summary>
         /// btnLogin control.
         /// </summary>
         /// <remarks>
@@ -47,33 +56,6 @@ namespace importador {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton btnSair;
-        
-        /// <summary>
-        /// lblNomeEmpresa control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblNomeEmpresa;
-        
-        /// <summary>
-        /// imgEmpresa control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton imgEmpresa;
-        
-        /// <summary>
-        /// logoEmpresa control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Image logoEmpresa;
         
         /// <summary>
         /// ContentPlaceHolder1 control.

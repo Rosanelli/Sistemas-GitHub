@@ -32,10 +32,7 @@ namespace importador
                     }
                 }
 
-                logoEmpresa.ImageUrl = en._Foto;
-
-                lblNomeEmpresa.Text = en._Razao_Social;
-
+                
                 btnLogin.Text = String.Format("Olá {0}!", en._Razao_Social);
 
                 btnSair.Visible = true;
@@ -44,17 +41,15 @@ namespace importador
 
                 EmpresaEN empresaEN = EmpresaAD.buscaEmpresa(idEmpresa);
 
-                imgEmpresa.ImageUrl = empresaEN._Foto;
+                //imgEmpresa.ImageUrl = empresaEN._Foto;
 
-                imgEmpresa.Visible = true;
+                //imgEmpresa.Visible = true;
 
             }
             else
             {
-                imgEmpresa.Visible = false;
+                //imgEmpresa.Visible = false;
                 btnSair.Visible = false;
-                logoEmpresa.Visible = false;
-                lblNomeEmpresa.Text = "MR Software";
             }
         }
 
@@ -62,8 +57,13 @@ namespace importador
         {
             FormsAuthentication.SignOut();
             Session["IDCliente"] = 0;
-            Response.Redirect("Menu.aspx");
+            Response.Redirect("Dashboard.aspx");
             
         }
+
+        //protected void logo_Click(object sender, ImageClickEventArgs e)
+        //{
+        //    Response.Redirect("Dashboard.aspx");
+        //}
     }
 }

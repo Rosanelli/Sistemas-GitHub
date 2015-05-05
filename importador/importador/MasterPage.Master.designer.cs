@@ -40,6 +40,15 @@ namespace importador {
         protected global::System.Web.UI.ScriptManager ScriptManager1;
         
         /// <summary>
+        /// logo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ImageButton logo;
+        
+        /// <summary>
         /// btnLogin control.
         /// </summary>
         /// <remarks>
@@ -56,15 +65,6 @@ namespace importador {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton btnSair;
-        
-        /// <summary>
-        /// lblNomeEmpresa control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblNomeEmpresa;
         
         /// <summary>
         /// Panel1 control.
@@ -128,15 +128,6 @@ namespace importador {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::AjaxControlToolkit.ModalPopupExtender ModalPopupExtender1;
-        
-        /// <summary>
-        /// logoEmpresa control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Image logoEmpresa;
         
         /// <summary>
         /// ContentPlaceHolder1 control.

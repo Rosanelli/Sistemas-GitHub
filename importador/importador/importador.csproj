@@ -60,9 +60,48 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="angular\index.html" />
+    <Content Include="angular\script.js" />
+    <Content Include="angular\style.css" />
+    <Content Include="angular\Menu.aspx" />
+    <Content Include="bootstrap_files\bootstrap.min.js" />
+    <Content Include="bootstrap_files\css\bootstrap-theme.min.css" />
+    <Content Include="bootstrap_files\css\bootstrap.min.css" />
+    <Content Include="bootstrap_files\css\theme.css" />
+    <Content Include="bootstrap_files\docs.min.js" />
+    <Content Include="bootstrap_files\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap_files\ie-emulation-modes-warning.js" />
+    <Content Include="bootstrap_files\ie10-viewport-bug-workaround.js" />
+    <Content Include="bootstrap_files\jquery-1.11.2.min.js" />
+    <Content Include="bootstrap_files\jquery.min.js" />
+    <Content Include="dist\docs\docs.css" />
+    <Content Include="dist\docs\foundation.css" />
+    <Content Include="dist\toggle-switch.css" />
+    <Content Include="imagens\banrisul.png" />
+    <Content Include="imagens\bradesco.png" />
+    <Content Include="imagens\carousel-2.jpg" />
+    <Content Include="imagens\carousel3.jpg" />
+    <Content Include="imagens\favicon.ico" />
+    <Content Include="imagens\fundo_padrao.png" />
+    <Content Include="imagens\ibia.png" />
+    <Content Include="imagens\itau.png" />
+    <Content Include="imagens\logoMagmattec.png" />
+    <Content Include="imagens\logoMagmattecHover.png" />
+    <Content Include="imagens\logo_mrSoftware.png" />
+    <Content Include="imagens\primeiroSlide.png" />
+    <Content Include="imagens\second.png" />
+    <Content Include="imagens\seta.png" />
+    <Content Include="imagens\tempoxreceita.png" />
+    <Content Include="Dashboard.aspx" />
+    <Content Include="scripts\jquery.easing.min.js" />
+    <Content Include="scripts\jquery.localscroll-1.2.7-min.js" />
+    <Content Include="scripts\jquery.min.js" />
+    <Content Include="scripts\jquery.nicescroll.js" />
+    <Content Include="scripts\jquery.parallax-1.1.3.js" />
+    <Content Include="scripts\jquery.scrollTo-1.4.2-min.js" />
+    <Content Include="scripts\jquery.slimmenu.js" />
+    <Content Include="scripts\tooltip.js" />
     <Content Include="Service.asmx" />
-    <Content Include="iconic.css" />
-    <Content Include="fonts\iconic\iconic_stroke.svg" />
     <Content Include="img\close.png" />
     <Content Include="img\denim.png" />
     <Content Include="img\grid-alt.png" />
@@ -70,18 +109,22 @@
     <Content Include="img\grid-pgr.png" />
     <Content Include="img\light_alu.png" />
     <Content Include="img\LogoOficialMRSoftware.png" />
-    <Content Include="pages\CadastroConta.aspx" />
-    <Content Include="pages\ContasSemCadastro.aspx" />
-    <Content Include="pages\Empresa.aspx" />
-    <Content Include="pages\Menu.aspx" />
-    <Content Include="prefix-free.js" />
-    <Content Include="pages\Principal.aspx" />
-    <Content Include="style.css" />
+    <Content Include="CadastroConta.aspx" />
+    <Content Include="ContasSemCadastro.aspx" />
+    <Content Include="Empresa.aspx" />
+    <Content Include="Principal.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="angular\Menu.aspx.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="angular\Menu.aspx.designer.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+    </Compile>
     <Compile Include="classes\AD\ArquivoAD.cs" />
     <Compile Include="classes\AD\Arquivo_ContasNullAD.cs" />
     <Compile Include="classes\AD\ContaAD.cs" />
@@ -107,6 +150,13 @@
     <Compile Include="classes\EN\UsuarioEN.cs" />
     <Compile Include="classes\EN\VinculoArquivoEN.cs" />
     <Compile Include="classes\Lancamento.cs" />
+    <Compile Include="Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Service.asmx.cs">
       <DependentUpon>Service.asmx</DependentUpon>
       <SubType>Component</SubType>
@@ -125,49 +175,44 @@
     <Compile Include="MaterMenu.Master.designer.cs">
       <DependentUpon>MaterMenu.Master</DependentUpon>
     </Compile>
-    <Compile Include="pages\CadastroConta.aspx.cs">
+    <Compile Include="CadastroConta.aspx.cs">
       <DependentUpon>CadastroConta.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pages\CadastroConta.aspx.designer.cs">
+    <Compile Include="CadastroConta.aspx.designer.cs">
       <DependentUpon>CadastroConta.aspx</DependentUpon>
     </Compile>
-    <Compile Include="pages\ContasSemCadastro.aspx.cs">
+    <Compile Include="ContasSemCadastro.aspx.cs">
       <DependentUpon>ContasSemCadastro.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pages\ContasSemCadastro.aspx.designer.cs">
+    <Compile Include="ContasSemCadastro.aspx.designer.cs">
       <DependentUpon>ContasSemCadastro.aspx</DependentUpon>
     </Compile>
-    <Compile Include="pages\Empresa.aspx.cs">
+    <Compile Include="Empresa.aspx.cs">
       <DependentUpon>Empresa.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pages\Empresa.aspx.designer.cs">
+    <Compile Include="Empresa.aspx.designer.cs">
       <DependentUpon>Empresa.aspx</DependentUpon>
     </Compile>
-    <Compile Include="pages\Menu.aspx.cs">
-      <DependentUpon>Menu.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="pages\Menu.aspx.designer.cs">
-      <DependentUpon>Menu.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Principal.aspx.cs">
+    <Compile Include="Principal.aspx.cs">
       <DependentUpon>Principal.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="pages\Principal.aspx.designer.cs">
+    <Compile Include="Principal.aspx.designer.cs">
       <DependentUpon>Principal.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="MasterPage.Master" />
-    <Content Include="fonts\iconic\iconic_stroke.eot" />
-    <Content Include="fonts\iconic\iconic_stroke.otf" />
-    <Content Include="fonts\iconic\iconic_stroke.ttf" />
     <Content Include="MaterMenu.Master" />
+    <Content Include="bootstrap_files\css\theme.css~RFeee3fc.TMP" />
+    <Content Include="bootstrap_files\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap_files\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap_files\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="bootstrap_files\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Properties\PublishProfiles\importador.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
