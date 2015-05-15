@@ -37,7 +37,7 @@
     </div>
 
     <div id="sobre">
-        <div>
+        <div style="padding-left:200px;">
             <div>
 
           
