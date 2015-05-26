@@ -47,6 +47,66 @@ create table idioma(
 	Constraint PK_ididioma primary key(id),
 )
 
+create table USUARIO
+(
+	ID int identity,
+	nome varchar(35),
+	usuario varchar(35),
+	senha varchar(32),
+	tipo varchar(25),
+	
+	CONSTRAINT PK_usuario primary key (usuario),
+	CONSTRAINT FK_tipo foreign key (tipo) references TIPO_USUARIO(descricao)
+)
+
+
+CREATE TABLE TIPO_USUARIO
+(
+	ID int identity,
+	descricao varchar(25),
+	
+	CONSTRAINT PK_descricao primary key(descricao)
+)
+
+
+create table evento
+(
+	ID int identity,
+	nome varchar(50),
+	data datetime,
+	CONSTRAINT PK_evento primary key (ID)
+)
+
+create table texto_noticia
+(
+	ID int identity,
+	Titulo varchar(50),
+	Descricao varchar(220),
+	Texto varchar(2000),
+	IDEvento int,
+	CONSTRAINT PK_texto_noticia primary key(ID),
+	CONSTRAINT FK_texto_evento foreign key (IDEvento) references evento(ID)
+)
+
+create table foto
+(
+	ID int identity,
+	Nome varchar(50),
+	Caminho varchar(50),
+	IDEvento int,
+	CONSTRAINT PK_foto primary key(ID),
+	CONSTRAINT FK_evento_foto foreign key (IDEvento) references evento(ID)
+)
+
+
+insert into tipo_usuario
+values ('admin')
+
+
+insert into usuario
+values('magmattec','magmattec','efa40d8a73bf4b62b2bc1e820b035c7d','admin')
+
+
 insert into idioma
 values('português')
 
