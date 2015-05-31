@@ -92,11 +92,12 @@ create table foto
 (
 	ID int identity,
 	Nome varchar(50),
-	Caminho varchar(50),
+	Caminho varchar(200),
 	IDEvento int,
 	CONSTRAINT PK_foto primary key(ID),
 	CONSTRAINT FK_evento_foto foreign key (IDEvento) references evento(ID)
 )
+
 
 
 insert into tipo_usuario
