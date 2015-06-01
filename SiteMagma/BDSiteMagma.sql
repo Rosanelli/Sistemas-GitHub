@@ -20,8 +20,6 @@ create table produto (
  Constraint FK_idproduto foreign key(idgrupo) references grupo_produto(id)
 )
 
-
-
 create table grupo_produto(
   id int identity,
   descricao varchar(50),
@@ -81,12 +79,18 @@ create table texto_noticia
 (
 	ID int identity,
 	Titulo varchar(50),
+	Link varchar(150),
+	Linkbool char,
 	Descricao varchar(220),
 	Texto varchar(2000),
 	IDEvento int,
+	IDIdioma int,
 	CONSTRAINT PK_texto_noticia primary key(ID),
-	CONSTRAINT FK_texto_evento foreign key (IDEvento) references evento(ID)
+	CONSTRAINT FK_texto_evento foreign key (IDEvento) references evento(ID),
+	CONSTRAINT FK_IDIdioma_texto_Noticia foreign key (IDIdioma) references idioma(id)
 )
+
+
 
 create table foto
 (
@@ -116,4 +120,6 @@ insert into idioma
 values('inglês')
 
 
-select * from produto
+ALTER TABLE grupo_produto ADD imagem varchar(300);
+
+
