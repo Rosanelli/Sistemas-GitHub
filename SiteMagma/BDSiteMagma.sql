@@ -33,10 +33,9 @@ create table texto_idioma(
 	idproduto int,
 	ididioma int,
 	Constraint FK_idproduto_texto foreign key(idproduto) references produto(id),
-	Constraint FK_ididioma foreign key(ididioma) references produto(id),
+	Constraint FK_ididioma foreign key(ididioma) references idioma(id),
 	Constraint UK_produto_idioma unique (idproduto,ididioma)
 )
-
 
 
 create table idioma(
