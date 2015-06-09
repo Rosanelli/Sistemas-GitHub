@@ -26,10 +26,12 @@ create table grupo_produto(
   Constraint PK_idgrupo_produto primary key(id)   
 )
 
+ALTER TABLE grupo_produto ADD aplicacao varchar(1000)NULL;
+
 create table texto_idioma(
 	id int identity,
 	descricao varchar(120),
-	aplicacao varchar(500),
+	aplicacao varchar(1000),
 	idproduto int,
 	ididioma int,
 	Constraint FK_idproduto_texto foreign key(idproduto) references produto(id),
@@ -101,6 +103,15 @@ create table foto
 	CONSTRAINT FK_evento_foto foreign key (IDEvento) references evento(ID)
 )
 
+create table Arquivo_Slider
+(
+	ID int identity,
+	Foto varchar(300),
+	Titulo varchar(250),
+	Subtitulo varchar(500),
+	IDGrupo int,
+	CONSTRAINT FK_IDGrupo_Slider foreign key (IDGrupo) references grupo_produto(id)
+)
 
 
 insert into tipo_usuario
