@@ -91,6 +91,8 @@ create table texto_noticia
 	CONSTRAINT FK_IDIdioma_texto_Noticia foreign key (IDIdioma) references idioma(id)
 )
 
+ALTER TABLE texto_noticia Alter Column Titulo varchar(300)NULL;
+ALTER TABLE texto_noticia Alter Column Descricao varchar(500)NULL;
 
 
 create table foto
