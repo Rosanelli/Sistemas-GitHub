@@ -2,88 +2,145 @@
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
 
-
-
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="instantSearch">
 <head runat="server">
-    <title>MRSoftware</title>
 
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'/>
-    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="iconic.css" media="screen" rel="stylesheet" type="text/css" />
-    <script src="prefix-free.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <%--<link rel="icon" href="imagens/favicon.ico" />--%>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap_files/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bootstrap_files/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="bootstrap_files/css/theme.css" rel="stylesheet" />
+    <!-- ---------------------------->
+
+    <%---------------- parallax css  -------------------------------%>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="http://adnantopal.github.io/slimmenu/css/slimmenu.css" rel="stylesheet" media="screen" />
+    <link href="http://adnantopal.github.io/slimmenu/css/style.css" rel="stylesheet" media="screen" />
+    <!-- ---------------------------->
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css' />
+
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div ng-controller="InstantSearchController">
+            <div>
+                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
 
-            <asp:UpdatePanel runat="server">
-                <ContentTemplate>
+                <asp:UpdatePanel runat="server">
+                    <ContentTemplate>
 
-                    <div class="wrap">
-                        <div class="autenticacao">
-                            <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
-                            <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+                        <nav class="navbar navbar-default navbar-fixed-top">
+                            <div class="container">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <asp:ImageButton ID="logo" ImageUrl="~/img/LogoOficialMRSoftware.png" OnClick="logo_Click" class="navbar-brand" runat="server" />
+                                </div>
+                                <div id="navbar" class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav">
+                                        <li class="active"><a href="#home">HOME</a></li>
+                                        <li><a href="#sobre">SOBRE</a></li>
+                                        <li><a href="#contato">CONTATO</a></li>
+                                    </ul>
+                                    <div class="autenticacao">
+                                        <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
+                                        <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+
+
+                        <div class="footer">
                         </div>
-                        <nav>
-                            <ul class="menu">
-                                <li><a href="#"><span class="iconic home"></span>Inicio</a></li>
-                                <li><a href="#"><span class="iconic plus-alt"></span>Sobre</a>
-                                    <%--   <ul>
-                                        <li><a href="#">Company History</a></li>
-                                        <li><a href="#">Meet the team</a></li>
-                                    </ul>--%>
-                                </li>
 
-                                <li><a href="#"><span class="iconic mail"></span>Contato</a>
-                                    <%-- <ul>
-                                        <li><a href="#">Contact Us</a></li>
-                                        <li><a href="#">Directions</a></li>
-                                    </ul>--%>
-                                </li>
+                        <asp:Panel ID="Panel1" CssClass="modalPopupLogin" Style="display: none;" runat="server">
+                            <asp:ImageButton ID="btnCancel" ImageUrl="~/img/close.png" Style="float:right;width:25px;height:25px;"  runat="server" />
+                            <br />
+                            <asp:Label ID="lblException" runat="server" />
+                            <br />
+                            <asp:TextBox ID="txtUsuario" class="form-control"  PlaceHolder="Usuario" runat="server" />
+                            <asp:TextBox ID="txtSenha" class="form-control" runat="server"  TextMode="Password" PlaceHolder="Senha" />
+                            <br />
+                            <br />
+                            <asp:Button ID="btnEntrar" class="btn btn-lg btn-primary btn-block" Text="Entrar" runat="server" OnClick="btnEntrar_Click" />
 
-                            </ul>
-
-                            <p class="logoMenu">
-                                <asp:Label ID="lblNomeEmpresa" Text="MR Software" runat="server" />
-                            </p>
-                            <div class="clearfix"></div>
-
-
-                            <asp:Panel ID="Panel1" CssClass="modalPopupLogin" runat="server">
-                                <asp:ImageButton ID="btnCancel" ImageUrl="~/img/close.png" Width="30px" Height="30px" runat="server" />
-                                <%--<asp:Button ID="btnCancel" Text="Cancelar" runat="server" />--%>
-                                <br />
-                                <br />
-                                <asp:Label ID="lblException" runat="server" />
-                                <br />
-                                <asp:TextBox ID="txtUsuario" Width="200px" PlaceHolder="Usuario" runat="server" />
-                                <br />
-                                <asp:TextBox ID="txtSenha" runat="server" Width="200px" TextMode="Password" PlaceHolder="Senha"  />
-                                <br />
-                                <br />
-                                <asp:Button ID="btnEntrar" Text="Entrar" runat="server" OnClick="btnEntrar_Click" />
-
-                            </asp:Panel>
-                            <asp:ModalPopupExtender ID="ModalPopupExtender1" BackgroundCssClass="modalPopup1_Background" TargetControlID="btnLogin" CancelControlID="btnCancel" PopupControlID="Panel1" runat="server">
-                            </asp:ModalPopupExtender>
+                        </asp:Panel>
+                        <asp:ModalPopupExtender ID="ModalPopupExtender1" BackgroundCssClass="modalPopup1_Background" TargetControlID="btnLogin" CancelControlID="btnCancel" PopupControlID="Panel1" runat="server">
+                        </asp:ModalPopupExtender>
 
                         </nav>
-                </ContentTemplate>
-            </asp:UpdatePanel>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
+            </div>
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
         </div>
-
-        <asp:Image ID="logoEmpresa" CssClass="fotoEmpresa" runat="server" />
-
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        </asp:ContentPlaceHolder>
-
     </form>
 </body>
+
+
+<!-- Bootstrap core JavaScript -->
+<script src="bootstrap_files/jquery.min.js"></script>
+<script src="bootstrap_files/bootstrap.min.js"></script>
+<script src="bootstrap_files/docs.min.js"></script>
+<script src="bootstrap_files/ie10-viewport-bug-workaround.js"></script>
+<script src="bootstrap_files/ie-emulation-modes-warning.js"></script>
+<!-- ---------------------------->
+
+<%---------------- parallax javascript  -------------------------------%>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="./scripts/jquery.easing.min.js"></script>
+<script src="./scripts/bootstrap.min.js"></script>
+<script src="./scripts/slimmenu.js"></script>
+<script src="./scripts/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="./scripts/tooltip.js"></script>
+<script type="text/javascript" src="./scripts/jquery.parallax-1.1.3.js"></script>
+<script type="text/javascript" src="./scripts/jquery.localscroll-1.2.7-min.js"></script>
+<script type="text/javascript" src="./scripts/jquery.scrollTo-1.4.2-min.js"></script>
+<!-- ---------------------------->
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("html").niceScroll();
+        $('.nav').localScroll(800);
+
+        RepositionNav();
+
+        $(window).resize(function () {
+            RepositionNav();
+        });
+
+        //.parallax(xPosition, speedFactor, outerHeight) options:
+        //xPosition - Horizontal position of the element
+        //inertia - speed to move relative to vertical scroll. Example: 0.1 is one tenth the speed of scrolling, 2 is twice the speed of scrolling
+        //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
+        $('#home').parallax("100%", 1200, 0.1, true);
+        $('#quemsomos').parallax("100%", 1200, 0.1, true);
+        $('#third').parallax("100%", 1200, 0.1, true);
+    })
+</script>
+
+
 </html>

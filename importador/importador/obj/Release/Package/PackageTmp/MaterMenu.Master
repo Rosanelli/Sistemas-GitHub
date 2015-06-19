@@ -1,53 +1,80 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MaterMenu.master.cs" Inherits="importador.MaterMenu" %>
 
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>MRSoftware - Menu</title>
+    <title>MRSoftware</title>
 
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="iconic.css" media="screen" rel="stylesheet" type="text/css" />
-    <script src="prefix-free.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
 
+    <%--<link rel="icon" href="imagens/favicon.ico" />--%>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap_files/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bootstrap_files/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="bootstrap_files/css/theme.css" rel="stylesheet" />
+    <!-- ---------------------------->
+
+     <link href="docs/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="docs/css/highlight.css" rel="stylesheet"/>
+    <link href="dist/css/bootstrap3/bootstrap-switch.css" rel="stylesheet"/>
+    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet"/>
+    <link href="docs/css/main.css" rel="stylesheet"/>
+  
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
-<body>
+<body role="document">
     <form id="form1" runat="server">
 
-        <div class="wrap">
-            <div class="autenticacao">
-                <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
-                <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <asp:ImageButton ID="logo" ImageUrl="~/img/LogoOficialMRSoftware.png"  class="navbar-brand" runat="server" />
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="Dashboard.aspx">MENU</a></li>
+                        <li class="dropdown">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CONTAS <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="CadastroConta.aspx">CONTÁBEIS</a></li>
+                                <li><a href="ContasSemCadastro.aspx">PENDENTES</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#sobre">INCLUIR ARQUIVO</a></li>
+
+                    </ul>
+                    <div class="autenticacao">
+                        <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
+                        <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+                    </div>
+                </div>
             </div>
-            <nav>
+        </nav>
 
-                <ul class="menu">
-                    <li><a href="Menu.aspx"><span class="iconic home"></span>Menu</a></li>
-                    <li><a href="CadastroConta.aspx"><span class="iconic plus-alt"></span>Cadastro Contas</a></li>
-                    <li><a href="ContasSemCadastro.aspx"><span class="iconic plus-alt"></span>Contas sem Cadastro</a></li>
-                    <li><a href="Empresa.aspx"><span class="iconic plus-alt"></span>Incluir Arquivo</a></li>
-                </ul>
-
-                <p class="logoMenu">
-                    <asp:Label ID="lblNomeEmpresa" Text="MR Software" runat="server" />
-                </p>
-
-
-
-                <div class="clearfix"></div>
-            </nav>
+        <div class="footer">
         </div>
 
-        <asp:ImageButton ID="imgEmpresa"  runat="server" />
-        <asp:Image ID="logoEmpresa" CssClass="fotoEmpresa" runat="server" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
 
-        <div>
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
-        </div>
     </form>
 </body>
+
+
 </html>

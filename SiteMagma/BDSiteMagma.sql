@@ -34,10 +34,12 @@ create table texto_idioma(
 	aplicacao varchar(1000),
 	idproduto int,
 	ididioma int,
+	arquivo varchar(200),
 	Constraint FK_idproduto_texto foreign key(idproduto) references produto(id),
 	Constraint FK_ididioma foreign key(ididioma) references idioma(id),
 	Constraint UK_produto_idioma unique (idproduto,ididioma)
 )
+
 
 
 create table idioma(
